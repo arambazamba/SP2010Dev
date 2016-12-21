@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTConsole", "RESTConsole.csproj", "{6EBBEAA6-C0DF-44F9-86E5-4B1B55112AFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListTemplate", "ListTemplate", "{9B570557-E53F-44A2-AD8E-2130C8C06C3D}"
+	ProjectSection(SolutionItems) = preProject
+		ListTemplate\Inventory.stp = ListTemplate\Inventory.stp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBBEAA6-C0DF-44F9-86E5-4B1B55112AFF}.Debug|x86.ActiveCfg = Debug|x86
+		{6EBBEAA6-C0DF-44F9-86E5-4B1B55112AFF}.Debug|x86.Build.0 = Debug|x86
+		{6EBBEAA6-C0DF-44F9-86E5-4B1B55112AFF}.Release|x86.ActiveCfg = Release|x86
+		{6EBBEAA6-C0DF-44F9-86E5-4B1B55112AFF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

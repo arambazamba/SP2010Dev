@@ -1,0 +1,7 @@
+D:\RESTConsole\bin\Debug\RESTConsole.exe
+D:\RESTConsole\bin\Debug\RESTConsole.pdb
+D:\RESTConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RESTConsole\obj\x86\Debug\RESTConsole.exe
+D:\RESTConsole\obj\x86\Debug\RESTConsole.pdb
+D:\Demos\RESTConsole\obj\x86\Debug\RESTConsole.exe
+D:\Demos\RESTConsole\obj\x86\Debug\RESTConsole.pdb

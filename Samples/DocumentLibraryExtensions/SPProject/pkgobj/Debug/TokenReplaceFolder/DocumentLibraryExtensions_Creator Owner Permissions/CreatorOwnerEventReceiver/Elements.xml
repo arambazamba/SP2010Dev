@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomActionGroup
+		Id="Integrations.DocumentLibraryExtensions"
+		Location="Microsoft.SharePoint.SiteSettings"
+    Title="Document Library Extensions"
+    Sequence="100"
+    ImageUrl="/images/demo.png"
+    Description="Settings for Document Library Extensions"/>
+  <CustomAction
+		Id="Integrations.CreatorOwnerSettings"
+		GroupId="Integrations.DocumentLibraryExtensions"
+		Location="Microsoft.SharePoint.SiteSettings"
+		Sequence="10"
+		Title="Enable Creator-Owner-Permissions" >
+    <UrlAction Url="~site/_layouts/DocumentLibraryExtensions/CreatorOwnerSettings.aspx" />
+  </CustomAction>
+ </Elements>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="7716e850-5364-4a20-92d0-08f39faf05be" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="TimerJob.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="TimerJob_TimerJobFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction    Id="COB.SharePoint.Ribbon.NewGroupInExistingTab"    Location="CommandUI.Ribbon">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        
+        <CommandUIDefinition          Location="Ribbon.Read.Groups._children">
+          <Group            Id="COB.SharePoint.Ribbon.NewGroupInExistingTab.NotificationGroup"            Sequence="15"            Description="Used to demo adding a group"            Title="Chris's custom group"            Template="Ribbon.Templates.Flexible">
+            <Controls Id="COB.SharePoint.Ribbon.NewGroupInExistingTab.NotificationGroup.Controls">
+              <Button                Id="COB.SharePoint.Ribbon.NewGroupInExistingTab.NotificationGroup.NotifyHello"                Command="COB.NewGroupInExistingTab.Command.Notify"                Sequence="15" Image16by16="/_layouts/images/NoteBoard_16x16.png" Image32by32="/_layouts/images/NoteBoard_32x32.png"                Description="Uses the notification area to display a message."                LabelText="Notify hello!!"                TemplateAlias="o1" />
+            </Controls>
+          </Group>
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler          Command="COB.NewGroupInExistingTab.Command.Notify"          CommandAction="javascript:            SP.UI.Notify.addNotification('Hello from the notification area');           " />
+      </CommandUIHandlers>
+    </CommandUIExtension>
+  </CustomAction>
+
+</Elements>

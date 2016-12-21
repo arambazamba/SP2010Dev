@@ -1,0 +1,5 @@
+d:\DemoSL\DemoSL.Web\bin\DemoSL.Web.dll
+d:\DemoSL\DemoSL.Web\bin\DemoSL.Web.pdb
+d:\DemoSL\DemoSL.Web\obj\Debug\ResolveAssemblyReference.cache
+d:\DemoSL\DemoSL.Web\obj\Debug\DemoSL.Web.dll
+d:\DemoSL\DemoSL.Web\obj\Debug\DemoSL.Web.pdb

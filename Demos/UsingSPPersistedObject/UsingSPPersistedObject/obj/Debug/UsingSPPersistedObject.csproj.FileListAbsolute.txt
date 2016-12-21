@@ -1,0 +1,6 @@
+D:\UsingSPPersistedObject\UsingSPPersistedObject\bin\Debug\UsingSPPersistedObject.exe
+D:\UsingSPPersistedObject\UsingSPPersistedObject\bin\Debug\UsingSPPersistedObject.pdb
+D:\UsingSPPersistedObject\UsingSPPersistedObject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\UsingSPPersistedObject\UsingSPPersistedObject\obj\Debug\ResolveAssemblyReference.cache
+D:\UsingSPPersistedObject\UsingSPPersistedObject\obj\Debug\UsingSPPersistedObject.exe
+D:\UsingSPPersistedObject\UsingSPPersistedObject\obj\Debug\UsingSPPersistedObject.pdb

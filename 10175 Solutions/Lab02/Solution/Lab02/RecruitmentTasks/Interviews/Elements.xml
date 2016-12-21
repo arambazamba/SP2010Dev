@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!--
+    In the below:
+        A. Edit Title
+        B. Ensure OnQuickLaunch (default, but review)
+        C. Edit URL
+        D. Edit Description
+    -->
+    <ListInstance Title="Interviews"
+                OnQuickLaunch="TRUE"
+                TemplateType="10000"
+                Url="Lists/Interviews"
+                Description="Interviews for External Candidates">
+  </ListInstance>
+</Elements>

@@ -1,0 +1,6 @@
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe.config
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.pdb
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.exe
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.pdb

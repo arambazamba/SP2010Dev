@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="3f648732-a27d-4f43-8484-235b3f9fadf4" Scope="Web" Title="BaseLists">
+  <ElementManifests>
+    <ElementManifest Location="Interviews\Elements.xml" />
+    <ElementManifest Location="RecruitmentTasks\Elements.xml" />
+    <ElementFile Location="RecruitmentTasks\Schema.xml" />
+    <ElementManifest Location="Candidates\Elements.xml" />
+    <ElementManifest Location="CandidateList\Elements.xml" />
+    <ElementFile Location="CandidateList\Schema.xml" />
+  </ElementManifests>
+</Feature>

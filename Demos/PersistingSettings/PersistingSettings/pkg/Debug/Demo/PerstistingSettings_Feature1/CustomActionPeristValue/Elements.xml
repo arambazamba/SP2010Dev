@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <CustomActionGroup
+    Id="Integrations.PersistValueGroup"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Title="Persist Value Group"
+    Sequence="500"
+    />
+  <CustomAction
+    Id="Integrations.PersistValue"
+    GroupId="Integrations.PersistValueGroup"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Sequence="500"
+    Title="Persist Value Demo">
+    <UrlAction Url="~site/_layouts/PerstistingSettings/PersistValues.aspx"/>
+  </CustomAction>
+  
+</Elements>

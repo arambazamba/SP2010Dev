@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="51d87267-81d7-4c82-a059-3f4e2135ac56" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="JQueryWebparts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="JQueryWebparts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1e6cd8d80b08961" Namespace="JQueryWebparts.RefreshWebPart" TypeName="*" />
+        <SafeControl Assembly="JQueryWebparts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a1e6cd8d80b08961" Namespace="JQueryWebparts.CallSharePointWS" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\JQueryWebparts\RefreshWebPart\RefreshWebPartUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\JQueryWebparts\CallSharePointWS\CallSharePointWSUserControl.ascx" />
+    <TemplateFile Location="LAYOUTS\1033\STYLES\Demo.css" />
+    <TemplateFile Location="Layouts\ClientScriptWebParts\CallSharePointWSUserControl.ascx.js" />
+    <TemplateFile Location="Layouts\ClientScriptWebParts\jquery-1.6.2.min.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ClientScriptWebParts_ClientScriptWebparts\Feature.xml" />
+  </FeatureManifests>
+</Solution>

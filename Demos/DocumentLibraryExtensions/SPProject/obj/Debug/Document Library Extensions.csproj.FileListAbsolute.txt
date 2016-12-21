@@ -1,0 +1,5 @@
+d:\SPProject\SPProject\obj\Debug\ResolveAssemblyReference.cache
+d:\SPProject\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.dll
+d:\SPProject\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.pdb
+d:\SPProject\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.dll
+d:\SPProject\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.pdb

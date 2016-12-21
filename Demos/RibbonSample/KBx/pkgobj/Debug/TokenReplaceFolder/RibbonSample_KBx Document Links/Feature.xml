@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="3fef13a1-ea4a-4ba9-a5db-0c020e640188" Scope="Web" Title="KBx Document Links">
+  <ElementManifests>
+    <ElementManifest Location="DocumentLinksAction\Elements.xml" />
+  </ElementManifests>
+</Feature>

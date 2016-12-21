@@ -1,0 +1,5 @@
+D:\SytleWebpart\SytleWebpart\bin\Debug\SytleWebpart.dll
+D:\SytleWebpart\SytleWebpart\bin\Debug\SytleWebpart.pdb
+D:\SytleWebpart\SytleWebpart\obj\Debug\ResolveAssemblyReference.cache
+D:\SytleWebpart\SytleWebpart\obj\Debug\SytleWebpart.dll
+D:\SytleWebpart\SytleWebpart\obj\Debug\SytleWebpart.pdb

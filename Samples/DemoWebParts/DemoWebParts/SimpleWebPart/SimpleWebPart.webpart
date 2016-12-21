@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="DemoWebParts.SimpleWebPart.SimpleWebPart, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">SimpleWebPart</property>
+        <property name="Description" type="string">My WebPart</property>
+        <property name="Group" type="string">Demo WebParts</property>
+      </properties>
+      
+    </data>
+  </webPart>
+</webParts>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6FE1AF22-3F70-49D6-A280-73910466E257" ModuleId="EventReceiversDemo" />
+  <Module PersistentId="5F1D77E4-1B63-47F0-9185-C59CE537BE71" ModuleId="EventBindConsole" />
+</Modules>

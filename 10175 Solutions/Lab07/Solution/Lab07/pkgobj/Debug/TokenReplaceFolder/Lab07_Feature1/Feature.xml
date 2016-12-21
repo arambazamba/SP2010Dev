@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f3457013-fccd-4891-9712-28c7fc0269e4" Scope="Site" Title="Lab07 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="reviewContracts\Elements.xml" />
+  </ElementManifests>
+</Feature>

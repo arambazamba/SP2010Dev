@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="a9af979d-c81a-4f80-bac9-5fc3ce33d1fd" Scope="Site" Title="Lab04 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="JobDefinitions\Elements.xml" />
+    <ElementFile Location="JobDefinitions\JobDefinitions.webpart" />
+    <ElementManifest Location="OpenPositions\Elements.xml" />
+    <ElementFile Location="OpenPositions\OpenPositions.webpart" />
+  </ElementManifests>
+</Feature>

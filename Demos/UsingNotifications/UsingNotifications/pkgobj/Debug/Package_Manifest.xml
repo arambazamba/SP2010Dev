@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="51da01a7-a02d-4b16-9842-417dfa319a6b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="UsingNotifications.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\UsingNotifications\Notification.aspx" />
+    <TemplateFile Location="Layouts\UsingNotifications\Notification.aspx.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="UsingNotifications_NotificationsDemo\Feature.xml" />
+  </FeatureManifests>
+</Solution>

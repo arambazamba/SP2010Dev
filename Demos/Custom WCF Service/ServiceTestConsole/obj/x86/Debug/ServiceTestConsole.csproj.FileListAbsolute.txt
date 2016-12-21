@@ -1,0 +1,6 @@
+D:\WCF\ServiceTestConsole\bin\Debug\ServiceTestConsole.exe.config
+D:\WCF\ServiceTestConsole\bin\Debug\ServiceTestConsole.exe
+D:\WCF\ServiceTestConsole\bin\Debug\ServiceTestConsole.pdb
+D:\WCF\ServiceTestConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WCF\ServiceTestConsole\obj\x86\Debug\ServiceTestConsole.exe
+D:\WCF\ServiceTestConsole\obj\x86\Debug\ServiceTestConsole.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="32ba151d-c7f6-4dc5-aa7e-4d9c80af4ca1" Scope="Web" Title="Recruitment Interviews">
+  <ElementManifests>
+    <ElementManifest Location="InterviewOutcomes\Elements.xml" />
+    <ElementFile Location="InterviewOutcomes\Schema.xml" />
+    <ElementManifest Location="Outcomes\Elements.xml" />
+  </ElementManifests>
+</Feature>

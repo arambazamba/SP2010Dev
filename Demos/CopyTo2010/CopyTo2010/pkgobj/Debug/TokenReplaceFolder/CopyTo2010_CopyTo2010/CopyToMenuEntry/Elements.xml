@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="Integrations.CopyTo"
+		RegistrationType="List"
+		RegistrationId="101"
+		Location="EditControlBlock"
+		Sequence="300"
+		Title="Copy To Destination"
+		>
+    <UrlAction Url="~site/_layouts/CopyTo2010/CopyTo.aspx?ItemId={ItemId}&amp;ListId={ListId}"/>
+  </CustomAction>
+</Elements>

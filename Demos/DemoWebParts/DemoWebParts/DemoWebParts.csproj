@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BA738ED7-97FA-4907-99F2-6306D8A718D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DemoWebParts</RootNamespace>
+    <AssemblyName>DemoWebParts</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Server, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\ISAPI\Microsoft.Office.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Server.UserProfiles, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsumingWebPart\ConsumingWebPart.cs" />
+    <Compile Include="DataboundWebPart\DataboundWebPart.cs" />
+    <Compile Include="CustomEditorWebpart\EditorPart.cs" />
+    <Compile Include="GroupWebPart\GroupWebPart.cs" />
+    <Compile Include="GroupWebPart\GroupWebPartUserControl.ascx.cs">
+      <DependentUpon>GroupWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GroupWebPart\GroupWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>GroupWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendingWebPart\IStringContent.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CustomEditorWebpart\SearchWP.cs" />
+    <Compile Include="SendingWebPart\SendingWebPart.cs" />
+    <Compile Include="SimpleWebPart\SimpleWebPart.cs" />
+    <Compile Include="GroupWebPart\UserInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SPDataboundWebPart\SPDataboundWebPart.cs" />
+    <Compile Include="StyledWebPart\StyledWebPart.cs" />
+    <Compile Include="VisualWebPart\VisualWebPart.cs" />
+    <Compile Include="VisualWebPart\VisualWebPartUserControl.ascx.cs">
+      <DependentUpon>VisualWebPartUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VisualWebPart\VisualWebPartUserControl.ascx.designer.cs">
+      <DependentUpon>VisualWebPartUserControl.ascx.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConsumingWebPart\ConsumingWebPart.webpart">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ConsumingWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{b9434c84-ec9d-46df-bebd-f1825a05311d}</SharePointProjectItemId>
+    </None>
+    <None Include="DataboundWebPart\DataboundWebPart.webpart" />
+    <None Include="DataboundWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{2194e562-e526-45e0-9ec1-053765b5d563}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\DemoWebParts Feature\DemoWebParts Feature.feature">
+      <FeatureId>{766e6bc9-e32c-401f-8dd7-ef8644cb6474}</FeatureId>
+    </None>
+    <None Include="GroupWebPart\GroupWebPart.webpart" />
+    <None Include="GroupWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{8050046c-a71a-4859-9ada-80f14026ec98}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Package\Package.package">
+      <PackageId>{cad2bc62-fc72-4dcb-93d0-8d2b68224e79}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="CustomEditorWebpart\SearchWP.webpart" />
+    <None Include="CustomEditorWebpart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{82290dc1-a416-48fd-8e77-92a1f206fa6c}</SharePointProjectItemId>
+    </None>
+    <None Include="SendingWebPart\SendingWebPart.webpart" />
+    <None Include="SendingWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{903c89c8-6c68-4fd9-a1dc-2a45a6ce6c36}</SharePointProjectItemId>
+    </None>
+    <None Include="SimpleWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{eb587bb5-9a93-4e03-a791-dfb69abff516}</SharePointProjectItemId>
+    </None>
+    <None Include="SimpleWebPart\SimpleWebPart.webpart" />
+    <None Include="SPDataboundWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{96a1b994-375d-41f9-8403-e90023036ff9}</SharePointProjectItemId>
+    </None>
+    <None Include="SPDataboundWebPart\SPDataboundWebPart.webpart" />
+    <None Include="StyledWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{c9569db1-6361-4299-a128-5d3c30582106}</SharePointProjectItemId>
+    </None>
+    <None Include="StyledWebPart\StyledWebPart.webpart" />
+    <None Include="STYLES\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{086860c9-edde-419a-a572-8a8e2262f73d}</SharePointProjectItemId>
+    </None>
+    <None Include="VisualWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ac88c84e-4933-4b61-b913-ae29226350a1}</SharePointProjectItemId>
+    </None>
+    <None Include="VisualWebPart\VisualWebPart.webpart" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ConsumingWebPart\Elements.xml" />
+    <Content Include="DataboundWebPart\Elements.xml" />
+    <Content Include="Features\DemoWebParts Feature\DemoWebParts Feature.Template.xml">
+      <DependentUpon>DemoWebParts Feature.feature</DependentUpon>
+    </Content>
+    <Content Include="CustomEditorWebpart\Elements.xml" />
+    <Content Include="GroupWebPart\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="GroupWebPart\GroupWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="SendingWebPart\Elements.xml" />
+    <Content Include="SimpleWebPart\Elements.xml" />
+    <Content Include="SPDataboundWebPart\Elements.xml" />
+    <Content Include="StyledWebPart\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="STYLES\mystyle.css" />
+    <Content Include="VisualWebPart\Elements.xml" />
+    <Content Include="VisualWebPart\VisualWebPartUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7716e850-5364-4a20-92d0-08f39faf05be" solutionId="7716e850-5364-4a20-92d0-08f39faf05be" resetWebServer="false" sharePointProductVersion="15.0" name="TimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="0f4f413d-64cb-47f7-b52e-b9eb89b6a870" />
+  </features>
+</package>

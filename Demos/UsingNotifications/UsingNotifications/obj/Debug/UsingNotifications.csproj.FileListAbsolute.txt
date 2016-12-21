@@ -1,0 +1,6 @@
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\bin\Debug\UsingNotifications.dll
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\bin\Debug\UsingNotifications.pdb
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\obj\Debug\ResolveAssemblyReference.cache
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\obj\Debug\UsingNotifications.dll
+D:\SPDev\Demos\UsingNotifications\UsingNotifications\obj\Debug\UsingNotifications.pdb

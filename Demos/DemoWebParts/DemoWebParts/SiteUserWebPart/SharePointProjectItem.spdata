@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="GroupMembershipWebpartUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="SiteUserWebPart\" Type="ElementManifest" />
+    <ProjectItemFile Source="GroupMembershipWebpart.webpart" Target="SiteUserWebPart\" Type="ElementFile" />
+    <ProjectItemFile Source="GroupMembershipWebpartUserControl.ascx" Target="CONTROLTEMPLATES\SSISJobManager\GroupMembershipWebpart\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="SSISJobManager.GroupMembershipWebpart" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

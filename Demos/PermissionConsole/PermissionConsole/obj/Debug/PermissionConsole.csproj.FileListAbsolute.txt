@@ -1,0 +1,8 @@
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\bin\Debug\PermissionConsole.exe
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\bin\Debug\PermissionConsole.pdb
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\obj\Debug\PermissionConsole.exe
+D:\SharePoint 2010 Dev MOC\Demos\PermissionConsole\PermissionConsole\obj\Debug\PermissionConsole.pdb
+D:\SPDev\Demos\PermissionConsole\PermissionConsole\obj\Debug\PermissionConsole.exe
+D:\SPDev\Demos\PermissionConsole\PermissionConsole\obj\Debug\PermissionConsole.pdb

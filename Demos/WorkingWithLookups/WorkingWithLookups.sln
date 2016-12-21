@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithLookups", "WorkingWithLookups.csproj", "{05669650-0C67-48C6-B318-007196F3F194}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Site Template for Testing", "Site Template for Testing", "{7203CB51-39EC-45F2-9983-0BCAB0A16D0E}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\Administrator\Desktop\LookupsSite.stp = C:\Users\Administrator\Desktop\LookupsSite.stp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05669650-0C67-48C6-B318-007196F3F194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05669650-0C67-48C6-B318-007196F3F194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05669650-0C67-48C6-B318-007196F3F194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05669650-0C67-48C6-B318-007196F3F194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

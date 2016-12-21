@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d70e9b67-bc82-4f1f-a9eb-4cf0e72f686b" Scope="Site" Title="Lab11 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="BonnevileTestBed\Elements.xml" />
+    <ElementFile Location="BonnevileTestBed\BonnevileTestBed.webpart" />
+  </ElementManifests>
+</Feature>

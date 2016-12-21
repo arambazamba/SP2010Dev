@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="580f4603-3b72-4775-b80d-dc4f2aa0c57d" Scope="Site" Title="Lab03 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="TaskView\Elements.xml" />
+    <ElementFile Location="TaskView\TaskView.webpart" />
+    <ElementManifest Location="Overview\Elements.xml" />
+    <ElementFile Location="Overview\Overview.webpart" />
+  </ElementManifests>
+</Feature>

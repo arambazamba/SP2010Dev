@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="20b27b38-6d8d-40b3-8059-77a4628a75b1" Scope="Web" Title="Creator Owner Permissions">
+  <ElementManifests>
+    <ElementManifest Location="CreatorOwnerEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

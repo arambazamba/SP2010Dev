@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7e754fb2-a01a-4330-83ea-e69dd07150ab" solutionId="7e754fb2-a01a-4330-83ea-e69dd07150ab" resetWebServer="false" name="Document Library Extensions" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5443d844-5fbc-4120-9e03-4713af8b072c" />
+    <featureReference itemId="cad4937e-0049-44e9-8163-c0886a0283a6" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4e1f4324-d73c-4297-adc4-dbb3c8e83fff" />
+    <projectItemReference itemId="a67bca7a-1243-42fd-bbd6-572d63b174e8" />
+    <projectItemReference itemId="8b217d56-fedd-43cb-b8a6-31ad8886cf28" />
+  </projectItems>
+</package>

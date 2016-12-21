@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f15d070d-1139-4877-b5d6-329209326249" ReceiverAssembly="Lab05, Version=1.0.0.0, Culture=neutral, PublicKeyToken=95dfa91614d6bef2" ReceiverClass="Lab05.Features.ControlProliferation.ControlProliferationEventReceiver" Scope="Web" Title="Control Proliferation of Subsites">
+  <ElementManifests>
+    <ElementManifest Location="ControlSubsites\Elements.xml" />
+  </ElementManifests>
+</Feature>

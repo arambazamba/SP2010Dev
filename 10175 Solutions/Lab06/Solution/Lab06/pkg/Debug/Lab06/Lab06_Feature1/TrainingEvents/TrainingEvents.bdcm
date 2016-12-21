@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/windows/2007/BusinessDataCatalog" Name="TrainingEvents">
+  <LobSystems>
+    <LobSystem Name="TrainingEvents" Type="DotNetAssembly">
+      <LobSystemInstances>
+        <LobSystemInstance Name="TrainingEvents" />
+      </LobSystemInstances>
+      <Entities>
+        <Entity Name="TrainingEventEntity" Namespace="Lab06.TrainingEvents" EstimatedInstanceCount="1000" Version="1.0.0.93">
+          <Properties>
+            <Property Name="Class" Type="System.String">Lab06.TrainingEvents.TrainingEventEntityService, TrainingEvents</Property>
+          </Properties>
+          <Identifiers>
+            <Identifier Name="TrainingEventID" TypeName="System.Int32" />
+            <!-- TODO:change the name of the ID and if needed the TypeName of your identifier.-->
+          </Identifiers>
+          <Methods>
+            <!-- start finder method-->
+            <Method Name="ReadList">
+              <!-- TODO:change the name of the method if needed.-->
+              <Parameters>
+                <Parameter Direction="Return" Name="returnParameter">
+                  <TypeDescriptor TypeName="System.Collections.Generic.IEnumerable`1[[Lab06.TrainingEvents.TrainingEvent, TrainingEvents]]" IsCollection="true" Name="TrainingEventList">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="TrainingEvent" TypeName="Lab06.TrainingEvents.TrainingEvent, TrainingEvents">
+                        <TypeDescriptors>
+                          <TypeDescriptor Name="TrainingEventID" TypeName="System.Int32" IdentifierName="TrainingEventID" ReadOnly="true" />
+                          <TypeDescriptor Name="EventDate" TypeName="System.DateTime" />
+                          <TypeDescriptor Name="LoginName" TypeName="System.String" />
+                          <TypeDescriptor Name="Status" TypeName="System.String" />
+                          <TypeDescriptor Name="Title" TypeName="System.String" />
+                          <TypeDescriptor Name="Description" TypeName="System.String" />
+                          <TypeDescriptor Name="EventType" TypeName="System.String" /></TypeDescriptors></TypeDescriptor></TypeDescriptors>
+                  </TypeDescriptor>
+                </Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Type="Finder" ReturnParameterName="returnParameter" Default="true" Name="ReadList" DefaultDisplayName="Entity1 List" />
+              </MethodInstances>
+            </Method>
+            <!-- end finder method-->
+            <!-- start specific finder method-->
+            <Method Name="ReadItem">
+              <Parameters>
+                <Parameter Direction="In" Name="id">
+                  <TypeDescriptor TypeName="System.Int32" Name="TrainingEventID" IdentifierName="TrainingEventID" />
+                </Parameter>
+                <Parameter Direction="Return" Name="returnParameter">
+                  <TypeDescriptor TypeName="Lab06.TrainingEvents.TrainingEvent, TrainingEvents" Name="TrainingEvent">
+                    <TypeDescriptors>
+                      <TypeDescriptor TypeName="System.Int32" IdentifierName="TrainingEventID" Name="TrainingEventID" ReadOnly="true" />
+                      <TypeDescriptor TypeName="System.DateTime" Name="EventDate" />
+                      <!-- TODO: add typedescriptors when you add properties to entity1.-->
+                      <TypeDescriptor Name="LoginName" TypeName="System.String" />
+                      <TypeDescriptor Name="Status" TypeName="System.String" />
+                      <TypeDescriptor Name="Title" TypeName="System.String" />
+                      <TypeDescriptor Name="Description" TypeName="System.String" />
+                      <TypeDescriptor Name="EventType" TypeName="System.String" /></TypeDescriptors>
+                  </TypeDescriptor>
+                </Parameter>
+              </Parameters>
+              <MethodInstances>
+                <MethodInstance Type="SpecificFinder" ReturnParameterName="returnParameter" Default="true" Name="ReadItem" DefaultDisplayName="Read Entity1" />
+              </MethodInstances>
+            </Method>
+            <Method Name="Delete">
+              <Parameters>
+                <Parameter Name="trainingEventID" Direction="In">
+                  <TypeDescriptor Name="TrainingEventID" TypeName="System.Int32" IdentifierEntityName="TrainingEventEntity" IdentifierEntityNamespace="Lab06.TrainingEvents" IdentifierName="TrainingEventID" /></Parameter></Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Delete" Type="Deleter" /></MethodInstances></Method>
+            <Method Name="Update">
+              <Parameters>
+                <Parameter Name="trainingEventEntity" Direction="In">
+                  <TypeDescriptor Name="TrainingEventEntity" TypeName="Lab06.TrainingEvents.TrainingEvent, TrainingEvents">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="TrainingEventID" IdentifierName="TrainingEventID" TypeName="System.Int32" UpdaterField="true" />
+                      <TypeDescriptor Name="EventDate" TypeName="System.DateTime" UpdaterField="true" />
+                      <TypeDescriptor Name="LoginName" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="Status" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="Title" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="Description" TypeName="System.String" UpdaterField="true" />
+                      <TypeDescriptor Name="EventType" TypeName="System.String" UpdaterField="true" /></TypeDescriptors></TypeDescriptor></Parameter></Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Update" Type="Updater" /></MethodInstances></Method>
+            <Method Name="Create">
+              <Parameters>
+                <Parameter Name="returnTrainingEventEntity" Direction="Return">
+                  <TypeDescriptor Name="ReturnTrainingEventEntity" TypeName="Lab06.TrainingEvents.TrainingEvent, TrainingEvents">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="TrainingEventID" IdentifierName="TrainingEventID" ReadOnly="true" TypeName="System.Int32" />
+                      <TypeDescriptor Name="EventDate" TypeName="System.DateTime" />
+                      <TypeDescriptor Name="LoginName" TypeName="System.String" />
+                      <TypeDescriptor Name="Status" TypeName="System.String" />
+                      <TypeDescriptor Name="Title" TypeName="System.String" />
+                      <TypeDescriptor Name="Description" TypeName="System.String" />
+                      <TypeDescriptor Name="EventType" TypeName="System.String" /></TypeDescriptors></TypeDescriptor></Parameter>
+                <Parameter Name="newTrainingEventEntity" Direction="In">
+                  <TypeDescriptor Name="NewTrainingEventEntity" TypeName="Lab06.TrainingEvents.TrainingEvent, TrainingEvents">
+                    <TypeDescriptors>
+                      <TypeDescriptor Name="TrainingEventID" IdentifierName="TrainingEventID" ReadOnly="false" TypeName="System.Int32" CreatorField="true" />
+                      <TypeDescriptor Name="EventDate" TypeName="System.DateTime" CreatorField="true" />
+                      <TypeDescriptor Name="LoginName" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="Status" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="Title" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="Description" TypeName="System.String" CreatorField="true" />
+                      <TypeDescriptor Name="EventType" TypeName="System.String" CreatorField="true" /></TypeDescriptors></TypeDescriptor></Parameter></Parameters>
+              <MethodInstances>
+                <MethodInstance Name="Create" Type="Creator" ReturnParameterName="returnTrainingEventEntity" ReturnTypeDescriptorPath="ReturnTrainingEventEntity" /></MethodInstances></Method>
+            <!-- end specific finder method-->
+          </Methods>
+        </Entity>
+      </Entities>
+    </LobSystem>
+  </LobSystems>
+</Model>

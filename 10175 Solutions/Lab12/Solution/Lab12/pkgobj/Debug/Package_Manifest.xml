@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9c1fbf46-2554-4145-a3a6-0ef1bea67614" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab13.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Lab13\ProfileReporter.aspx" />
+    <TemplateFile Location="Layouts\Lab13\TaxonomyReporter.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab13_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

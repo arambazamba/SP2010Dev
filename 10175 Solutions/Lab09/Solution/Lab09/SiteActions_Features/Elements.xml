@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction Id="NewUIActionsMenu"
+      GroupId="SiteActions"
+      Location="Microsoft.SharePoint.StandardMenu"
+      Sequence="1970"
+      Title="Manage Features">
+        <UrlAction Url="/_layouts/ManageFeatures.aspx" />
+    </CustomAction>
+</Elements>
+
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="fa8c26b9-b002-4187-83ce-5695fb99acc4" Scope="Web" Title="Lab13 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="ProfileReport\Elements.xml" />
+  </ElementManifests>
+</Feature>

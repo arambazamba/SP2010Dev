@@ -1,0 +1,10 @@
+d:\DemoSL\DemoSL.Web\bin\DemoSL.Web.dll
+d:\DemoSL\DemoSL.Web\bin\DemoSL.Web.pdb
+d:\DemoSL\DemoSL.Web\obj\Debug\ResolveAssemblyReference.cache
+d:\DemoSL\DemoSL.Web\obj\Debug\DemoSL.Web.dll
+d:\DemoSL\DemoSL.Web\obj\Debug\DemoSL.Web.pdb
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\bin\DemoSL.Web.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\bin\DemoSL.Web.pdb
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\obj\Debug\DemoSL.Web.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\obj\Debug\DemoSL.Web.pdb

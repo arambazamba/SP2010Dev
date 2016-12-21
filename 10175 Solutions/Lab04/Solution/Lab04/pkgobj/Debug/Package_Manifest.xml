@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1bf29f34-42d5-45c9-8b86-97d2252f885d" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab04.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Lab04, Version=1.0.0.0, Culture=neutral, PublicKeyToken=760fe5cbe17d13de" Namespace="Lab04.JobDefinitions" TypeName="*" />
+        <SafeControl Assembly="Lab04, Version=1.0.0.0, Culture=neutral, PublicKeyToken=760fe5cbe17d13de" Namespace="Lab04.OpenPositions" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Lab04\CreateJobDef.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab04_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

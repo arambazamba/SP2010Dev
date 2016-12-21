@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="Microsoft SharePoint" Title="InterviewOutcomes" FolderCreation="FALSE" Direction="$Resources:Direction;" Url="Lists/Lab02-InterviewOutcomes" BaseType="0" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <MetaData>
+    <ContentTypes>
+      <ContentTypeRef ID="0x01">
+        <Folder TargetName="Item" />
+      </ContentTypeRef>
+      <ContentTypeRef ID="0x0120" />
+    </ContentTypes>
+    <Fields>
+        <!--Add fields below -->
+        <Field ID="{c3a92d97-2b77-4a25-9698-3ab54874bc06}" Name="Candidate" Type="Lookup" DisplayName="Candidate" List="Lists/Candidates" ShowField="Title" Required="TRUE"></Field>
+        <Field ID="{c3a92d97-2b77-4a25-9698-3ab54874bc19}" Name="Interviewer" Type="User" DisplayName="Interviewer" List="UserInfo"  Required="TRUE"  ShowField="ImnName" UserSelectionMode="PeopleAndGroups"></Field>
+        <Field ID="{c3a92d97-2b77-4a25-9698-3ab54874bc81}" Name="Offer" Type="Boolean" DisplayName="Job Offered?"  Required="TRUE"></Field>
+    </Fields>
+    <Views>
+      <View BaseViewID="0" Type="HTML" MobileView="TRUE" TabularView="FALSE">
+        <Toolbar />
+        <XslLink>main.xsl</XslLink>
+        <ViewBody>
+          <HTML><![CDATA[<tr class="]]></HTML>
+          <GetVar Name="AlternateStyle" />
+          <HTML><![CDATA["]]></HTML>
+          <Switch>
+            <Expr>
+              <GetVar Name="TabularView" />
+            </Expr>
+            <Case Value="1">
+              <HTML><![CDATA[ iid="]]></HTML>
+              <Counter Type="View" />
+              <HTML>,</HTML>
+              <Column Name="ID" HTMLEncode="TRUE" />
+              <HTML><![CDATA[,]]></HTML>
+              <LookupColumn Name="FSObjType" HTMLEncode="TRUE" />
+              <HTML><![CDATA["><td class="ms-vb-itmcbx"><input type="checkbox" class="s4-itm-cbx"/></td>]]></HTML>
+            </Case>
+            <Default>
+              <HTML><![CDATA[>]]></HTML>
+            </Default>
+          </Switch>
+          <IfEqual>
+            <Expr1>
+              <GetVar Name="AlternateStyle" />
+            </Expr1>
+            <Expr2>ms-alternating</Expr2>
+            <Then>
+              <SetVar Scope="Request" Name="AlternateStyle"></SetVar>
+            </Then>
+            <Else>
+              <SetVar Scope="Request" Name="AlternateStyle">ms-alternating</SetVar>
+            </Else>
+          </IfEqual>
+          <Fields>
+            <HTML><![CDATA[<td class="]]></HTML>
+            <FieldSwitch>
+              <Expr>
+                <Property Select="ClassInfo" />
+              </Expr>
+              <Case Value="Menu">
+                <HTML><![CDATA[ms-vb-title" onmouseover="OnChildItem(this)" height="100%]]></HTML>
+              </Case>
+              <Case Value="Icon">ms-vb-icon</Case>
+              <Default>
+                <FieldSwitch>
+                  <Expr>
+                    <Property Select="Type" />
+                    <PresenceEnabled />
+                  </Expr>
+                  <Case Value="UserTRUE">ms-vb-user</Case>
+                  <Case Value="UserMultiTRUE">ms-vb-user</Case>
+                  <Default>ms-vb2</Default>
+                </FieldSwitch>
+              </Default>
+            </FieldSwitch>
+            <HTML><![CDATA[">]]></HTML>
+            <Field />
+            <HTML><![CDATA[</td>]]></HTML>
+          </Fields>
+          <HTML><![CDATA[</tr>]]></HTML>
+        </ViewBody>
+        <RowLimit>20</RowLimit>
+        <ViewFields>
+          <FieldRef Name="LinkTitleNoMenu"></FieldRef>
+          <!-- Add Fields-->
+          <FieldRef Name="Candidate"></FieldRef>
+          <FieldRef Name="Interviewer"></FieldRef>
+          <FieldRef Name="Offer"></FieldRef>
+        </ViewFields>
+        <Query>
+          <OrderBy>
+            <FieldRef Name="Modified" Ascending="FALSE"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="AddNewAnnouncement" Location="Resource(wss,addnewitem)" />
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_ONET_HOME)" />
+        </ParameterBindings>
+      </View>
+      <View BaseViewID="1" Type="HTML" WebPartZoneID="Main" DisplayName="$Resources:core,objectiv_schema_mwsidcamlidC24;" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" SetupPath="pages\viewpage.aspx" ImageUrl="/_layouts/images/generic.png" Url="AllItems.aspx">
+        <Toolbar />
+        <XslLink>main.xsl</XslLink>
+        <ViewBody>
+          <HTML><![CDATA[<tr class="]]></HTML>
+          <GetVar Name="AlternateStyle" />
+          <HTML><![CDATA["]]></HTML>
+          <Switch>
+            <Expr>
+              <GetVar Name="TabularView" />
+            </Expr>
+            <Case Value="1">
+              <HTML><![CDATA[ iid="]]></HTML>
+              <Counter Type="View" />
+              <HTML>,</HTML>
+              <Column Name="ID" HTMLEncode="TRUE" />
+              <HTML><![CDATA[,]]></HTML>
+              <LookupColumn Name="FSObjType" HTMLEncode="TRUE" />
+              <HTML><![CDATA["><td class="ms-vb-itmcbx"><input type="checkbox" class="s4-itm-cbx"/></td>]]></HTML>
+            </Case>
+            <Default>
+              <HTML><![CDATA[>]]></HTML>
+            </Default>
+          </Switch>
+          <IfEqual>
+            <Expr1>
+              <GetVar Name="AlternateStyle" />
+            </Expr1>
+            <Expr2>ms-alternating</Expr2>
+            <Then>
+              <SetVar Scope="Request" Name="AlternateStyle"></SetVar>
+            </Then>
+            <Else>
+              <SetVar Scope="Request" Name="AlternateStyle">ms-alternating</SetVar>
+            </Else>
+          </IfEqual>
+          <Fields>
+            <HTML><![CDATA[<td class="]]></HTML>
+            <FieldSwitch>
+              <Expr>
+                <Property Select="ClassInfo" />
+              </Expr>
+              <Case Value="Menu">
+                <HTML><![CDATA[ms-vb-title" onmouseover="OnChildItem(this)" height="100%]]></HTML>
+              </Case>
+              <Case Value="Icon">ms-vb-icon</Case>
+              <Default>
+                <FieldSwitch>
+                  <Expr>
+                    <Property Select="Type" />
+                    <PresenceEnabled />
+                  </Expr>
+                  <Case Value="UserTRUE">ms-vb-user</Case>
+                  <Case Value="UserMultiTRUE">ms-vb-user</Case>
+                  <Default>ms-vb2</Default>
+                </FieldSwitch>
+              </Default>
+            </FieldSwitch>
+            <HTML><![CDATA[">]]></HTML>
+            <Field />
+            <HTML><![CDATA[</td>]]></HTML>
+          </Fields>
+          <HTML><![CDATA[</tr>]]></HTML>
+        </ViewBody>
+        <RowLimit Paged="TRUE">30</RowLimit>
+        <ViewFields>
+          <FieldRef Name="Attachments"></FieldRef>
+          <FieldRef Name="LinkTitle"></FieldRef>
+          <!-- Add Fields-->
+          <FieldRef Name="Candidate"></FieldRef>
+          <FieldRef Name="Interviewer"></FieldRef>
+          <FieldRef Name="Offer"></FieldRef>
+        </ViewFields>
+        <Query>
+          <OrderBy>
+            <FieldRef Name="ID"></FieldRef>
+          </OrderBy>
+        </Query>
+        <ParameterBindings>
+          <ParameterBinding Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" />
+          <ParameterBinding Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_DEFAULT)" />
+        </ParameterBindings>
+      </View>
+    </Views>
+    <Forms>
+      <Form Type="DisplayForm" Url="DispForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="EditForm" Url="EditForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+      <Form Type="NewForm" Url="NewForm.aspx" SetupPath="pages\form.aspx" WebPartZoneID="Main" />
+    </Forms>
+  </MetaData>
+</List>

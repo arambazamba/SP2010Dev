@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="cad2bc62-fc72-4dcb-93d0-8d2b68224e79" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="DemoWebParts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.SimpleWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.DataboundWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.VisualWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.SendingWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.ConsumingWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.SearchWP" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.StyledWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.GroupWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0298f2cb73d34d45" Namespace="DemoWebParts.SPDataboundWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\DemoWebParts\VisualWebPart\VisualWebPartUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\DemoWebParts\GroupWebPart\GroupWebPartUserControl.ascx" />
+    <TemplateFile Location="LAYOUTS\1033\STYLES\mystyle.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="DemoWebParts_DemoWebParts Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

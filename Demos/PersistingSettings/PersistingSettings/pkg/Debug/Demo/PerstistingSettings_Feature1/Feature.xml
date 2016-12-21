@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f4ca5850-9766-43e7-9e36-8ef93530b95d" Scope="Web" Title="Demo Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CustomActionPeristValue\Elements.xml" />
+  </ElementManifests>
+</Feature>

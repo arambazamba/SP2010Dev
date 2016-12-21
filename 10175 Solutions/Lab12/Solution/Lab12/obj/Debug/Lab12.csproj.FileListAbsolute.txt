@@ -1,0 +1,5 @@
+E:\Student\Lab13\Solution\Lab13\bin\Debug\Lab13.dll
+E:\Student\Lab13\Solution\Lab13\bin\Debug\Lab13.pdb
+E:\Student\Lab13\Solution\Lab13\obj\Debug\ResolveAssemblyReference.cache
+E:\Student\Lab13\Solution\Lab13\obj\Debug\Lab13.dll
+E:\Student\Lab13\Solution\Lab13\obj\Debug\Lab13.pdb

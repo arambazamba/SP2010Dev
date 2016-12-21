@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e1d431c5-b077-4a95-b9a5-9c0fbe11d0ef" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SytleWebpart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SytleWebpart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e17103dbed0a458b" Namespace="SytleWebpart.StyleWebpart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="LAYOUTS\1033\STYLES\mystyle.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SytleWebpart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

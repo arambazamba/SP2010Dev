@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b7d5cf23-44c8-41dc-85ec-c50719e5ca55" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="KBx.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\KBx\DocumentLinks.aspx" />
+    <TemplateFile Location="Layouts\KBx\DocumentLinks.js" />
+    <TemplateFile Location="Layouts\KBx\Images\Document.png" />
+    <TemplateFile Location="Layouts\KBx\Images\document_review.png" />
+    <TemplateFile Location="Layouts\KBx\Images\favorites.png" />
+    <TemplateFile Location="Layouts\KBx\Images\Link.png" />
+    <TemplateFile Location="Layouts\KBx\Images\DeleteRed.png" />
+    <TemplateFile Location="Layouts\KBx\Images\Mail.png" />
+    <TemplateFile Location="Layouts\KBx\Images\menu.png" />
+    <TemplateFile Location="Layouts\KBx\Images\offline.png" />
+    <TemplateFile Location="Layouts\KBx\jquery-1.6.2.min.js" />
+    <TemplateFile Location="Layouts\RibbonOM\Ribbon.js" />
+    <TemplateFile Location="Layouts\RibbonOM\Ribbon.aspx" />
+    <TemplateFile Location="ControlTemplates\KBx\Feedback.ascx" />
+    <TemplateFile Location="ControlTemplates\KBx\LinksList.ascx" />
+    <TemplateFile Location="ControlTemplates\KBx\SendMessage.ascx" />
+    <TemplateFile Location="Images\RibbonOM\package.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RibbonSample_KBx Document Links\Feature.xml" />
+  </FeatureManifests>
+</Solution>

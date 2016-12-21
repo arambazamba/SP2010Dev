@@ -1,0 +1,5 @@
+D:\Dev\03 Features and Solutions\TimerJob\TimerJob\bin\Debug\TimerJob.dll
+D:\Dev\03 Features and Solutions\TimerJob\TimerJob\bin\Debug\TimerJob.pdb
+D:\Dev\03 Features and Solutions\TimerJob\TimerJob\obj\Debug\TimerJob.csprojResolveAssemblyReference.cache
+D:\Dev\03 Features and Solutions\TimerJob\TimerJob\obj\Debug\TimerJob.dll
+D:\Dev\03 Features and Solutions\TimerJob\TimerJob\obj\Debug\TimerJob.pdb

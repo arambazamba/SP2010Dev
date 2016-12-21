@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!-- Do not change the value of the Name attribute below. If it does not match the folder name of the List Definition project item, an error will occur when the project is run. -->
+    <!-- 
+        In the below, start with:
+            A. Edit OnQuickLaunch
+            B. Edit Description
+            C. AllowDeletion=TRUE
+            
+            
+        Later in the lab: AllowDeletion=FALSE
+    -->
+    <ListTemplate
+        Name="CandidateList"
+        Type="10001"
+        BaseType="0"
+        OnQuickLaunch="FALSE"
+        SecurityBits="11"
+        Sequence="410"
+        DisplayName="CandidateList"
+        Description="External Candidates"
+        Image="/_layouts/images/itgen.gif"
+        AllowDeletion="FALSE"/>
+</Elements>

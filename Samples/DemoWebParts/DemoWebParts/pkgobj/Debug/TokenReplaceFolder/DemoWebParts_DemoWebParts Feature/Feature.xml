@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="08a158e3-892e-42bf-bd5f-8bfcf6ca5067" Scope="Site" Title="DemoWebParts Feature">
+  <ElementManifests>
+    <ElementManifest Location="SimpleWebPart\Elements.xml" />
+    <ElementFile Location="SimpleWebPart\SimpleWebPart.webpart" />
+    <ElementManifest Location="DataboundWebPart\Elements.xml" />
+    <ElementFile Location="DataboundWebPart\DataboundWebPart.webpart" />
+    <ElementManifest Location="VisualWebPart\Elements.xml" />
+    <ElementFile Location="VisualWebPart\VisualWebPart.webpart" />
+    <ElementManifest Location="SendingWebPart\Elements.xml" />
+    <ElementFile Location="SendingWebPart\SendingWebPart.webpart" />
+    <ElementManifest Location="ConsumingWebPart\Elements.xml" />
+    <ElementFile Location="ConsumingWebPart\ConsumingWebPart.webpart" />
+  </ElementManifests>
+</Feature>

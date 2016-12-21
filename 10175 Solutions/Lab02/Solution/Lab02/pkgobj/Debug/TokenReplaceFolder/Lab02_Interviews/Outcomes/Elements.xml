@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!-- In the below
+       Edit Title, URL and Description-->
+    <ListInstance Title="Outcomes"
+                OnQuickLaunch="TRUE"
+                TemplateType="10002"
+                Url="Lists/Outcomes"
+                Description="Interview Outcomes">
+  </ListInstance>
+</Elements>

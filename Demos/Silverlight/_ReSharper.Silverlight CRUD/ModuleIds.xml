@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="5937F32F-C4BD-439F-B095-63911ECC3D07" ModuleId="DemoSL" />
+  <Module PersistentId="7A0F40CF-C4B4-4EDB-AF11-694DA6298A36" ModuleId="DemoSL.Web" />
+</Modules>

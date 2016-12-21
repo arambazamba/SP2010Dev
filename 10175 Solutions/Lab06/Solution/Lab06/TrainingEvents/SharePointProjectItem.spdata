@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.BusinessDataConnectivity" DefaultFile="TrainingEvents.bdcm" FeatureReceiverClass="Microsoft.Office.SharePoint.ClientExtensions.Deployment.ImportModelReceiver" FeatureReceiverAssembly="Microsoft.Office.SharePoint.ClientExtensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Farm" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="TrainingEvents.bdcm" Target="TrainingEvents\" Type="ElementFile" />
+    <ProjectOutputFile ProjectId="2881fba4-9967-4923-a343-4e8e60caee3e" ProjectPath="Lab06.csproj" Target="BdcAssemblies\" Type="ElementFile" />
+  </Files>
+  <FeatureProperties>
+    <FeatureProperty Key="IncrementalUpdate" Value="true" />
+    <FeatureProperty Key="ModelFileName" Value="$SharePoint.ProjectItem.Name$\TrainingEvents.bdcm" />
+    <FeatureProperty Key="SiteUrl" Value="http://sharepoint/" />
+    <FeatureProperty Key="TrainingEvents" Value="BdcAssemblies\$SharePoint.Project.AssemblyFileName$" />
+  </FeatureProperties>
+</ProjectItem>

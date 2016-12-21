@@ -1,0 +1,12 @@
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe.config
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.pdb
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.exe
+D:\DevTraining\Samples\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.pdb
+D:\SharePoint 2010 Dev MOC\Demos\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe.config
+D:\SharePoint 2010 Dev MOC\Demos\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.exe
+D:\SharePoint 2010 Dev MOC\Demos\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.pdb
+D:\SPDev\Demos\SPLinqSample\SPLinqSample\bin\Debug\SPLinqSample.exe.config
+D:\SPDev\Demos\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.exe
+D:\SPDev\Demos\SPLinqSample\SPLinqSample\obj\x86\Debug\SPLinqSample.pdb

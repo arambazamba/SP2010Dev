@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c5d05e18-38bf-49d3-af8c-1ee36ed4f971" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://chiron/_vti_bin/PermissionService.svc/mex" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="mex2.xsd" MetadataType="Schema" ID="a0e40b0b-96f9-4d4a-8fa2-a38d385e3757" SourceId="1" SourceUrl="http://chiron.class.local/_vti_bin/PermissionService.svc/mex?xsd=xsd2" />
+    <MetadataFile FileName="mex.xsd" MetadataType="Schema" ID="cc6e5810-5ecd-47d8-9d3f-448f85c514fd" SourceId="1" SourceUrl="http://chiron.class.local/_vti_bin/PermissionService.svc/mex?xsd=xsd0" />
+    <MetadataFile FileName="PermissionService.wsdl" MetadataType="Wsdl" ID="b0db4946-3395-472a-82d5-fdb7296050d7" SourceId="1" SourceUrl="http://chiron/_vti_bin/PermissionService.svc/mex" />
+    <MetadataFile FileName="mex1.xsd" MetadataType="Schema" ID="e05a2743-1135-4843-ab18-d481cee546c0" SourceId="1" SourceUrl="http://chiron.class.local/_vti_bin/PermissionService.svc/mex?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

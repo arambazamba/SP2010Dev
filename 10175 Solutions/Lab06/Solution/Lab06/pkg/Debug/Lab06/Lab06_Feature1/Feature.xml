@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="75da00eb-b26c-4184-93ac-6caa3e4bc90f" ReceiverAssembly="Microsoft.Office.SharePoint.ClientExtensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ReceiverClass="Microsoft.Office.SharePoint.ClientExtensions.Deployment.ImportModelReceiver" Scope="Farm" Title="Lab06 Feature1">
+  <ElementManifests>
+    <ElementFile Location="TrainingEvents\TrainingEvents.bdcm" />
+    <ElementFile Location="BdcAssemblies\Lab06.dll" />
+  </ElementManifests>
+  <Properties>
+    <Property Key="IncrementalUpdate" Value="true" />
+    <Property Key="ModelFileName" Value="TrainingEvents\TrainingEvents.bdcm" />
+    <Property Key="SiteUrl" Value="http://sharepoint/" />
+    <Property Key="TrainingEvents" Value="BdcAssemblies\Lab06.dll" />
+  </Properties>
+</Feature>

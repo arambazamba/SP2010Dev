@@ -1,0 +1,6 @@
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\bin\Debug\KBx.dll
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\bin\Debug\KBx.pdb
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\obj\Debug\KBx.dll
+D:\SharePoint 2010 Dev MOC\Demos\JQuerySolution\KB\KBx\obj\Debug\KBx.pdb

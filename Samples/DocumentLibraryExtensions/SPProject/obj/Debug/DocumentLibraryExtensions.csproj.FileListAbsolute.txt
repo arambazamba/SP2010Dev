@@ -1,0 +1,16 @@
+D:\DevTraining\Samples\SPProject\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\DevTraining\Samples\SPProject\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.pdb
+D:\DevTraining\Samples\SPProject\SPProject\obj\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\SPProject\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\DevTraining\Samples\SPProject\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.pdb
+D:\DevTraining\Samples\DocumentLibraryExtensions\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\DevTraining\Samples\DocumentLibraryExtensions\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.pdb
+D:\DevTraining\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\DevTraining\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.pdb
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\bin\Debug\Integrations.DocumentLibraryExtensions.pdb
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.dll
+D:\SharePoint 2010 Dev MOC\Samples\DocumentLibraryExtensions\SPProject\obj\Debug\Integrations.DocumentLibraryExtensions.pdb

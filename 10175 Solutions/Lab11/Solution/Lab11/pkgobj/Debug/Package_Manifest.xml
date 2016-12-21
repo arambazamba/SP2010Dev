@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ecaea8d8-bf46-44ff-9916-42b0e8a9de51">
+  <Assemblies>
+    <Assembly Location="Lab11.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3152333bfee4e0e1" Namespace="Lab11.BonnevileTestBed" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab11_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,125 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="503" fromTop="23" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.cs" caret="871" fromTop="15" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="2508" fromTop="14" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="1673" fromTop="39" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="0" fromTop="0" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.cs" caret="1215" fromTop="31" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="207" fromTop="10" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="418" fromTop="16" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="519" fromTop="18" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.cs" caret="1053" fromTop="22" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.cs" caret="1206" fromTop="27" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/f:GridSource.cs" caret="503" fromTop="23" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="4041" fromTop="47" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="1001" fromTop="8" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="2404" fromTop="22" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="3994" fromTop="22" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="2146" fromTop="22" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.cs" caret="871" fromTop="15" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="3240" fromTop="37" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="2487" fromTop="17" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="4167" fromTop="16" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="3495" fromTop="23" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="3412" fromTop="39" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="3300" fromTop="20" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="2739" fromTop="24" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="3419" fromTop="42" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="3360" fromTop="38" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="4318" fromTop="14" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx" caret="2508" fromTop="14" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="3179" fromTop="57" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="1214" fromTop="8" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="1640" fromTop="17" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="2013" fromTop="26" />
+      <File id="9FD4E170-2FBB-4888-A5B6-1107F9690B6A/d:Layouts/d:ECMASample/f:ECMASample.aspx.js" caret="1673" fromTop="39" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Page" priority="0" />
+      <Item value="RegisterScript`0" priority="0" />
+      <Item value="SPContext`0" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="string" priority="0" />
+      <Item value="gvContacts" priority="6" />
+      <Item value="protected" priority="0" />
+      <Item value="SPWeb`0" priority="0" />
+      <Item value="SPList`0" priority="0" />
+      <Item value="web" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="BindGrid`0" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="DataTableDataSourceView`0" priority="0" />
+      <Item value="dt" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="GridSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPContext">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPContext">
+      <Item value="Web" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="AllowUnsafeUpdates" priority="0" />
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Web.ASPxGridView.ASPxGridView">
+      <Item value="DataSource" priority="2" />
+      <Item value="Columns" priority="0" />
+      <Item value="SettingsEditing" priority="0" />
+      <Item value="AutoGenerateColumns" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItemCollection">
+      <Item value="GetDataTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Page">
+      <Item value="Form" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Web.ASPxGridView.GridViewColumnCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Web.ASPxGridView.ASPxGridViewEditingSettings">
+      <Item value="Mode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Web.ASPxGridView.GridViewCommandColumn">
+      <Item value="DeleteButton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ECMASample.GridSource">
+      <Item value="BindGrid`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

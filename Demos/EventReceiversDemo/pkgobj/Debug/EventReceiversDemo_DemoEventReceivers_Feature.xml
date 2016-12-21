@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ImageUrl="EventReceiversDemo\components.png" Title="Event Receivers Demo " Id="cc3423f5-553a-48a8-a23e-9b9ec9df5db2" ReceiverAssembly="EventReceiversDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c328cb133ace6abc" ReceiverClass="EventReceiversDemo.Features.DemoEventReceivers.DemoEventReceiversEventReceiver" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="TitleChangeDenyReceiver\Elements.xml" />
+    <ElementManifest Location="AutoTitle\Elements.xml" />
+  </ElementManifests>
+</Feature>

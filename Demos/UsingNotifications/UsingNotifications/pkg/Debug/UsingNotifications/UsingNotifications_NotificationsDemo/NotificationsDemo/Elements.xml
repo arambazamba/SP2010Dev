@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="fffe2d7f-247f-4039-94aa-41bc075a7543" 
+                Title="NotificationsDemo"      
+                GroupId="SiteActions"		
+                ImageUrl="/_layouts/images/actionssettings.gif"		
+                Location="Microsoft.SharePoint.StandardMenu"		
+                Sequence="1001"		
+                Rights="DeleteListItems"			
+                Description="User SharePoint Notifications">
+    <UrlAction Url="~site/_layouts/UsingNotifications/Notification.aspx"/>
+    </CustomAction>
+</Elements>

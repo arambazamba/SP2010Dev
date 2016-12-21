@@ -1,0 +1,102 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles />
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="using" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Web`0" priority="1" />
+      <Item value="ctx" priority="4" />
+      <Item value="List`0" priority="0" />
+      <Item value="web" priority="0" />
+      <Item value="dgContracts" priority="3" />
+      <Item value="list" priority="2" />
+      <Item value="listitems" priority="5" />
+      <Item value="string" priority="3" />
+      <Item value="Contract`0" priority="3" />
+      <Item value="protected" priority="9" />
+      <Item value="Title" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="li" priority="4" />
+      <Item value="Lieferant" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="ClientRequestFailedEventHandler" priority="1" />
+      <Item value="OnRequestFailed`0" priority="2" />
+      <Item value="ClientRequestFailedEventArgs`0" priority="0" />
+      <Item value="WriteError`0" priority="2" />
+      <Item value="args" priority="1" />
+      <Item value="Action" priority="0" />
+      <Item value="lblStatus" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="item" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="ListItem`0" priority="0" />
+      <Item value="CurrentContact" priority="4" />
+      <Item value="if" priority="0" />
+      <Item value="UpdateItemSuccess`0" priority="1" />
+      <Item value="OnItemUpdateSucceeded`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="BindData`0" priority="0" />
+      <Item value="ErrorArgs" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ClientContext">
+      <Item value="Web" priority="0" />
+      <Item value="Load`1" priority="2" />
+      <Item value="ExecuteQueryAsync`0" priority="1" />
+      <Item value="ExecuteQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.Web">
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ListCollection">
+      <Item value="GetByTitle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGrid">
+      <Item value="ItemsSource" priority="1" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.List">
+      <Item value="GetItems`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoSL.Contract">
+      <Item value="ID" priority="1" />
+      <Item value="Title" priority="0" />
+      <Item value="Lieferant" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ListItemCollection">
+      <Item value="First`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Client.ClientRequestFailedEventArgs">
+      <Item value="ErrorDetails" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

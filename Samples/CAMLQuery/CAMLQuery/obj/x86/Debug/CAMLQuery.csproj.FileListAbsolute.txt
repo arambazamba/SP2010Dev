@@ -1,0 +1,6 @@
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\bin\Debug\CAMLQuery.exe.config
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\bin\Debug\CAMLQuery.exe
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\bin\Debug\CAMLQuery.pdb
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\obj\x86\Debug\CAMLQuery.exe
+D:\DevTraining\Samples\CAMLQuery\CAMLQuery\obj\x86\Debug\CAMLQuery.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8a4de862-271b-4331-af72-ca3a73366a2f" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="PermissionServiceWCF.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="ISAPI\PermissionService.svc" />
+  </RootFiles>
+</Solution>

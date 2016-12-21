@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SSISJobManager.GroupMembershipWebpart.GroupMembershipWebpart, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Site User Webpart</property>
+        <property name="Description" type="string">Displays the lists of users that have permissions in this site - Demonstratores the use of Object Datasource</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

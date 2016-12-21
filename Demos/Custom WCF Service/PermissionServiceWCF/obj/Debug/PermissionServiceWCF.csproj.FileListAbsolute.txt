@@ -1,0 +1,6 @@
+D:\WCF\PermissionServiceWCF\obj\Debug\ResolveAssemblyReference.cache
+D:\WCF\PermissionServiceWCF\bin\Debug\PermissionServiceWCF.dll
+D:\WCF\PermissionServiceWCF\bin\Debug\PermissionServiceWCF.pdb
+D:\WCF\PermissionServiceWCF\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\WCF\PermissionServiceWCF\obj\Debug\PermissionServiceWCF.dll
+D:\WCF\PermissionServiceWCF\obj\Debug\PermissionServiceWCF.pdb

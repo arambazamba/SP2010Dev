@@ -1,0 +1,11 @@
+D:\DevTraining\Samples\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.dll
+D:\DevTraining\Samples\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.pdb
+D:\DevTraining\Samples\DemoWebParts\DemoWebParts\obj\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.dll
+D:\DevTraining\Samples\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.pdb
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.dll
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.pdb
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.dll
+D:\SharePoint 2010 Dev MOC\Samples\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.pdb

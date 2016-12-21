@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Integrations.DocumentLibraryExtensions</RootNamespace>
+    <AssemblyName>Integrations.DocumentLibraryExtensions</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONTROLTEMPLATES\DocumentLibraryExtensions\CreatorOwnerSaveSettingsDialog.ascx.cs">
+      <DependentUpon>CreatorOwnerSaveSettingsDialog.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CONTROLTEMPLATES\DocumentLibraryExtensions\CreatorOwnerSaveSettingsDialog.ascx.designer.cs">
+      <DependentUpon>CreatorOwnerSaveSettingsDialog.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTROLTEMPLATES\DocumentLibraryExtensions\UploadRestrictionsSaveSettingsDialog.ascx.cs">
+      <DependentUpon>UploadRestrictionsSaveSettingsDialog.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CONTROLTEMPLATES\DocumentLibraryExtensions\UploadRestrictionsSaveSettingsDialog.ascx.designer.cs">
+      <DependentUpon>UploadRestrictionsSaveSettingsDialog.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatorOwnerEventReceiver\CreatorOwnerEventReceiver.cs" />
+    <Compile Include="Layouts\DocumentLibraryExtensions\AllowedFileTypes.aspx.cs">
+      <DependentUpon>AllowedFileTypes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\DocumentLibraryExtensions\AllowedFileTypes.aspx.designer.cs">
+      <DependentUpon>AllowedFileTypes.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\DocumentLibraryExtensions\CreatorOwnerSettings.aspx.cs">
+      <DependentUpon>CreatorOwnerSettings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\DocumentLibraryExtensions\CreatorOwnerSettings.aspx.designer.cs">
+      <DependentUpon>CreatorOwnerSettings.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\DocumentLibraryExtensions\UploadError.aspx.cs">
+      <DependentUpon>UploadError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\DocumentLibraryExtensions\UploadError.aspx.designer.cs">
+      <DependentUpon>UploadError.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UploadRestrictionEventReceiver\UploadRestrictionEventReceiver.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CONTROLTEMPLATES\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{8b217d56-fedd-43cb-b8a6-31ad8886cf28}</SharePointProjectItemId>
+    </None>
+    <None Include="CreatorOwnerEventReceiver\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{a80645b8-e5da-4784-ad76-7fa5bc8795f1}</SharePointProjectItemId>
+    </None>
+    <None Include="CreatorOwnerMenuEntry\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{01cee940-fb61-45c3-81f6-3f388dc754df}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\Creator Owner Permissions\Creator Owner Permissions.feature">
+      <FeatureId>{5443d844-5fbc-4120-9e03-4713af8b072c}</FeatureId>
+    </None>
+    <None Include="Features\Library Upload Restriction\Library Upload Restriction.feature">
+      <FeatureId>{cad4937e-0049-44e9-8163-c0886a0283a6}</FeatureId>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{a67bca7a-1243-42fd-bbd6-572d63b174e8}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4e1f4324-d73c-4297-adc4-dbb3c8e83fff}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{7e754fb2-a01a-4330-83ea-e69dd07150ab}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="UploadRestrictionEventReceiver\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{e44e4031-76fb-4d7d-a28b-4152aa9e666b}</SharePointProjectItemId>
+    </None>
+    <None Include="UploadRestrictionsMenuEntry\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{129060e1-af3a-4f08-94e5-918a4a7115f0}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="CONTROLTEMPLATES\DocumentLibraryExtensions\CreatorOwnerSaveSettingsDialog.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="CONTROLTEMPLATES\DocumentLibraryExtensions\UploadRestrictionsSaveSettingsDialog.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="CreatorOwnerEventReceiver\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="CreatorOwnerMenuEntry\Elements.xml" />
+    <Content Include="Features\Creator Owner Permissions\Creator Owner Permissions.Template.xml">
+      <DependentUpon>Creator Owner Permissions.feature</DependentUpon>
+    </Content>
+    <Content Include="Features\Library Upload Restriction\Library Upload Restriction.Template.xml">
+      <DependentUpon>Library Upload Restriction.feature</DependentUpon>
+    </Content>
+    <Content Include="Images\demo.png" />
+    <Content Include="Layouts\DocumentLibraryExtensions\AllowedFileTypes.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Layouts\DocumentLibraryExtensions\CreatorOwnerSettings.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Layouts\DocumentLibraryExtensions\UploadError.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="UploadRestrictionEventReceiver\Elements.xml" />
+    <Content Include="UploadRestrictionsMenuEntry\Elements.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

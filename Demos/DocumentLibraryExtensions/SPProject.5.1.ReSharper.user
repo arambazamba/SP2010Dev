@@ -1,0 +1,215 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:CreatorOwnerSettings.aspx.designer.cs" caret="0" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:CreatorOwnerEventReceiver/f:Elements.xml" caret="705" fromTop="16" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:CreatorOwnerEventReceiver/f:CreatorOwnerEventReceiver.cs" caret="392" fromTop="5" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:CreatorOwnerSettings.aspx.cs" caret="2705" fromTop="71" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:CreatorOwnerSettings.aspx" caret="1656" fromTop="21" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx" caret="263" fromTop="2" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="414" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx.cs" caret="329" fromTop="11" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="1032" fromTop="7" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="2628" fromTop="26" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="700" fromTop="21" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:Elements.xml" caret="370" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="0" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx.cs" caret="331" fromTop="14" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx.cs" caret="331" fromTop="14" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx" caret="263" fromTop="2" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx" caret="751" fromTop="2" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx.cs" caret="0" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="0" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="1819" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="745" fromTop="7" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="1819" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="1819" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="1653" fromTop="22" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="1947" fromTop="15" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="414" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.designer.cs" caret="751" fromTop="9" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:AllowedFileTypes.aspx.cs" caret="341" fromTop="11" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="390" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="1240" fromTop="15" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx" caret="1032" fromTop="7" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="0" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="751" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="260" fromTop="0" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="250" fromTop="7" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:Layouts/d:DocumentLibraryExtensions/f:UploadRestrictions.aspx.cs" caret="2628" fromTop="26" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="938" fromTop="18" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="922" fromTop="28" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:UploadRestrictionEventReceiver.cs" caret="751" fromTop="21" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:Elements.xml" caret="615" fromTop="15" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:Elements.xml" caret="737" fromTop="8" />
+      <File id="82CC49C9-4845-4B1E-9FD1-E8D9E0E56A47/d:UploadRestrictionEventReceiver/f:Elements.xml" caret="370" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="SPAddFieldOptions`0" priority="0" />
+      <Item value="SPContext`0" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="SPBaseType`0" priority="0" />
+      <Item value="cblLibs" priority="2" />
+      <Item value="list" priority="5" />
+      <Item value="ListItemProperty`0" priority="1" />
+      <Item value="new" priority="5" />
+      <Item value="ListItem" priority="0" />
+      <Item value="protected" priority="4" />
+      <Item value="void" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="btnSave" priority="0" />
+      <Item value="string" priority="10" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="ListItem`0" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="result" priority="3" />
+      <Item value="item" priority="3" />
+      <Item value="lblStatus" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="IsPostBack" priority="0" />
+      <Item value="BindHandler`0" priority="0" />
+      <Item value="web" priority="6" />
+      <Item value="null" priority="3" />
+      <Item value="settings" priority="0" />
+      <Item value="char" priority="1" />
+      <Item value="StringSplitOptions`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="lists" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="Selected" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="const" priority="0" />
+      <Item value="SPList`0" priority="1" />
+      <Item value="ListName" priority="0" />
+      <Item value="SPEventReceiverType`0" priority="0" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="SPListItem`0" priority="0" />
+      <Item value="properties" priority="8" />
+      <Item value="SPRoleAssignment`0" priority="1" />
+      <Item value="SPRoleDefinition`0" priority="0" />
+      <Item value="SPRoleAssignment" priority="0" />
+      <Item value="pl" priority="0" />
+      <Item value="perm" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="filename" priority="2" />
+      <Item value="CancelWithError" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPContext">
+      <Item value="Current" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPContext">
+      <Item value="Web" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="Lists" priority="1" />
+      <Item value="GetListsOfType`0" priority="0" />
+      <Item value="Properties" priority="3" />
+      <Item value="Update`0" priority="0" />
+      <Item value="RoleAssignments" priority="0" />
+      <Item value="RoleDefinitions" priority="0" />
+      <Item value="CurrentUser" priority="0" />
+      <Item value="AllowUnsafeUpdates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPBaseType">
+      <Item value="DocumentLibrary" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CheckBoxList">
+      <Item value="Items" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="Title" priority="1" />
+      <Item value="Hidden" priority="0" />
+      <Item value="OnQuickLaunch" priority="0" />
+      <Item value="EventReceivers" priority="0" />
+      <Item value="RoleAssignments" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="Selected" priority="0" />
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Utilities.SPPropertyBag">
+      <Item value="Add`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Split`0" priority="0" />
+      <Item value="LastIndexOf`0" priority="1" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="1" />
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPEventReceiverDefinitionCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPEventReceiverType">
+      <Item value="ItemAdded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPItemEventProperties">
+      <Item value="ListItem" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="Cancel" priority="0" />
+      <Item value="Status" priority="0" />
+      <Item value="ErrorMessage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItem">
+      <Item value="BreakRoleInheritance`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPRoleAssignment">
+      <Item value="RoleDefinitionBindings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPRoleDefinitionBindingCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPRoleAssignmentCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

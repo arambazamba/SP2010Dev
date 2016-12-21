@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="7e754fb2-a01a-4330-83ea-e69dd07150ab" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Integrations.DocumentLibraryExtensions.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\DocumentLibraryExtensions\AllowedFileTypes.aspx" />
+    <TemplateFile Location="Layouts\DocumentLibraryExtensions\CreatorOwnerSettings.aspx" />
+    <TemplateFile Location="Layouts\DocumentLibraryExtensions\UploadError.aspx" />
+    <TemplateFile Location="Images\demo.png" />
+    <TemplateFile Location="CONTROLTEMPLATES\DocumentLibraryExtensions\CreatorOwnerSaveSettingsDialog.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="DocumentLibraryExtensions_Creator Owner Permissions\Feature.xml" />
+    <FeatureManifest Location="DocumentLibraryExtensions_Library Upload Restriction\Feature.xml" />
+  </FeatureManifests>
+</Solution>

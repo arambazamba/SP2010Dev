@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomActionGroup
+    Id="Integrations.ECMASample"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Title="ECMA Sample Group"
+    Sequence="500"
+    />
+  <CustomAction
+    Id="Integrations.ECMASample.MenuEntry"
+    GroupId="Integrations.ECMASample"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Sequence="500"
+    Title="Show ECMA Sample">
+    <UrlAction Url="~site/_layouts/ECMASample/ECMASample.aspx"/>
+  </CustomAction>
+</Elements>

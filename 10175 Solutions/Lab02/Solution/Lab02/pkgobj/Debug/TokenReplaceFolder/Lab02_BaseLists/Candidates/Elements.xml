@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!--
+    In the below:
+    Edit URL and Description
+    Add <Data> element and rows
+    -->
+    <ListInstance Title="Candidates"
+                OnQuickLaunch="TRUE"
+                TemplateType="10001"
+                Url="Lists/Candidates"
+                Description="External Candidates">
+        <!--11 Add Data-->
+        <Data>
+            <Rows>
+                <Row>
+                    <Field Name="Title">Geert Camelbeke</Field>
+                </Row>
+                <Row>
+                    <Field Name="Title">Ivo Hamels</Field>
+                </Row>
+                <Row>
+                    <Field Name="Title">Eduardo Melo</Field>
+                </Row>
+                <Row>
+                    <Field Name="Title">Svetlana Omelchenko</Field>
+                </Row>
+                <Row>
+                    <Field Name="Title">Melanie Speckman</Field>
+                </Row>
+                <Row>
+                    <Field Name="Title">Steffen Tschimmel</Field>
+                </Row>
+            </Rows>
+        </Data>
+  </ListInstance>
+</Elements>

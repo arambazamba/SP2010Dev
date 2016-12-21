@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<minimalLanguageDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TrainingEvents">
+  <modelRootMoniker Name="/TrainingEvents" />
+  <nestedChildShapes>
+    <entityShape Id="7a0c8e50-a6d5-4a08-aa1a-ac516b3bbdad" absoluteBounds="0.5, 1.375, 2.625, 1.9210009765625">
+      <entityMoniker name="Lab06.TrainingEvents.TrainingEventEntity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4db951ef-7666-4d74-bbef-49a46c6443da" absoluteBounds="0.515, 1.7850000000000001, 2.5949999999999998, 0.37180582682291663" name="Identifiers" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="cf86b6be-8bab-43ed-830f-95fc0986ca08" absoluteBounds="0.515, 2.1668058268229169, 2.5949999999999998, 1.0291951497395833" name="Methods" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </entityShape>
+  </nestedChildShapes>
+</minimalLanguageDiagram>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+		Id="Integrations.UploadRestrictionsFileTypes"
+		GroupId="GeneralSettings"
+		Location="Microsoft.SharePoint.ListEdit"
+		Sequence="10"
+		Title="Allowed File Types" >
+    <UrlAction Url="~site/_layouts/DocumentLibraryExtensions/AllowedFileTypes.aspx?ListId={ListId}" />
+  </CustomAction>
+</Elements>

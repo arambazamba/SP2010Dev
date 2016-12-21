@@ -1,0 +1,6 @@
+D:\DevTraining\Samples\UploadConsole\UploadConsole\bin\Debug\UploadConsole.exe.config
+D:\DevTraining\Samples\UploadConsole\UploadConsole\bin\Debug\UploadConsole.exe
+D:\DevTraining\Samples\UploadConsole\UploadConsole\bin\Debug\UploadConsole.pdb
+D:\DevTraining\Samples\UploadConsole\UploadConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DevTraining\Samples\UploadConsole\UploadConsole\obj\x86\Debug\UploadConsole.exe
+D:\DevTraining\Samples\UploadConsole\UploadConsole\obj\x86\Debug\UploadConsole.pdb

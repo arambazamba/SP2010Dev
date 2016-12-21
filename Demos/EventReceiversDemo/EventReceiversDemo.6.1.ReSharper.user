@@ -1,0 +1,52 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:Elements.xml" caret="472" fromTop="9" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:Features/d:DemoEventReceivers/f:DemoEventReceivers.EventReceiver.cs" caret="218" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:TitleChangeDenyReceiver.cs" caret="837" fromTop="12" />
+      <File id="C8CC1771-23B4-4CE3-BA43-C89EA910E9E0/f:AutoTitle.cs" caret="692" fromTop="20" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:AutoTitle/f:AutoTitle.cs" caret="757" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C8CC1771-23B4-4CE3-BA43-C89EA910E9E0/f:AutoTitle.cs" caret="0" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:TitleChangeDenyReceiver.cs" caret="0" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:TitleChangeDenyReceiver.cs" caret="871" fromTop="7" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:TitleChangeDenyReceiver.cs" caret="390" fromTop="2" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:Elements.xml" caret="0" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:Elements.xml" caret="503" fromTop="9" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:Features/d:DemoEventReceivers/f:DemoEventReceivers.EventReceiver.cs" caret="0" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:Features/d:DemoEventReceivers/f:DemoEventReceivers.EventReceiver.cs" caret="798" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:TitleChangeDenyReceiver/f:TitleChangeDenyReceiver.cs" caret="837" fromTop="12" />
+      <File id="C8CC1771-23B4-4CE3-BA43-C89EA910E9E0/f:AutoTitle.cs" caret="1132" fromTop="17" />
+      <File id="C8CC1771-23B4-4CE3-BA43-C89EA910E9E0/f:AutoTitle.cs" caret="863" fromTop="20" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:AutoTitle/f:AutoTitle.cs" caret="0" fromTop="0" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:AutoTitle/f:AutoTitle.cs" caret="757" fromTop="22" />
+      <File id="6FE1AF22-3F70-49D6-A280-73910466E257/d:AutoTitle/f:AutoTitle.cs" caret="781" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="properties" priority="25" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPItemEventProperties">
+      <Item value="RedirectUrl" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8323733f-90c2-4214-a910-40f40a61e51b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab03.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Lab03, Version=1.0.0.0, Culture=neutral, PublicKeyToken=615220732469623d" Namespace="Lab03.TaskView" TypeName="*" />
+        <SafeControl Assembly="Lab03, Version=1.0.0.0, Culture=neutral, PublicKeyToken=615220732469623d" Namespace="Lab03.Overview" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Lab03\Overview\OverviewUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab03_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

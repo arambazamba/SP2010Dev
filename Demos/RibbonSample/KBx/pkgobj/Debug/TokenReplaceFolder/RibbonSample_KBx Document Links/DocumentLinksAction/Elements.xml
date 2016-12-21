@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="UPC.DocumentLinks"
+		RegistrationType="List"
+		RegistrationId="850"
+		Location="EditControlBlock"
+    ImageUrl="/_layouts/kbx/images/Link.png"
+		Sequence="300"                
+		Title="Show Links, Feedback, ..."		>
+    <UrlAction Url="~site/_layouts/KBx/DocumentLinks.aspx?ItemId={ItemId}&amp;ListId={ListId}"/>
+  </CustomAction>
+  <CustomAction Id="UPC.AddFavorites"
+   RegistrationType="List"
+   RegistrationId="850"
+   Location="EditControlBlock"
+   ImageUrl="/_layouts/kbx/images/favorites.png"
+   Sequence="300"
+   Title="Add to Favorites"		>
+    <UrlAction Url="~site/_layouts/KBx/DocumentLinks.aspx?ItemId={ItemId}&amp;ListId={ListId}"/>
+  </CustomAction>
+</Elements>

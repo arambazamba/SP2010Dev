@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="SkillsManagerUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="SkillsManager\" Type="ElementManifest" />
+    <ProjectItemFile Source="SkillsManager.webpart" Target="SkillsManager\" Type="ElementFile" />
+    <ProjectItemFile Source="SkillsManagerUserControl.ascx" Target="CONTROLTEMPLATES\Lab09\SkillsManager\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Lab09.SkillsManager" TypeName="*" IsSafe="true" />
+  </SafeControls>
+</ProjectItem>

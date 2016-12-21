@@ -1,0 +1,6 @@
+d:\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe.config
+d:\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe
+d:\LinqConsole\LinqConsole\bin\Debug\LinqConsole.pdb
+d:\LinqConsole\LinqConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\LinqConsole\LinqConsole\obj\x86\Debug\LinqConsole.exe
+d:\LinqConsole\LinqConsole\obj\x86\Debug\LinqConsole.pdb

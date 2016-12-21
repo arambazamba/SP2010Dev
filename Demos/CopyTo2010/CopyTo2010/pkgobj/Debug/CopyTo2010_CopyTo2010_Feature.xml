@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="CopyTo 2010" Id="be881091-a3b2-4d39-835d-43d6e59b5a56" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="CopyToMenuEntry\Elements.xml" />
+  </ElementManifests>
+</Feature>

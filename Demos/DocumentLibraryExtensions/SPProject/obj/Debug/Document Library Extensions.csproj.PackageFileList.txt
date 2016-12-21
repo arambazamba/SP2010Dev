@@ -1,0 +1,1 @@
+bin\Debug\Document Library Extensions.wsp

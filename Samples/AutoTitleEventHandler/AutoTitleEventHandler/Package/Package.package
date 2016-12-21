@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4440fe96-2b30-49fa-9180-c196468d1206" solutionId="4440fe96-2b30-49fa-9180-c196468d1206" resetWebServer="false" name="AutoTitleEventHandler" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7385d273-1e53-4f7e-b9e2-08d19dc47052" />
+  </features>
+</package>

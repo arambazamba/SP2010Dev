@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d1fcc8bd-4ccd-4037-a115-370c9534e746" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ECMASample.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\ECMASample\ECMASample.aspx" />
+    <TemplateFile Location="Layouts\ECMASample\ECMASample.aspx.js" />
+    <TemplateFile Location="Layouts\ECMASample\jquery-1.6.2.min.js" />
+  </TemplateFiles>
+</Solution>

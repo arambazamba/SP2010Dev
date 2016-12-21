@@ -1,0 +1,18 @@
+d:\ECMASample\ECMASample\bin\Debug\ECMASample.dll
+d:\ECMASample\ECMASample\bin\Debug\ECMASample.pdb
+d:\ECMASample\ECMASample\obj\Debug\ResolveAssemblyReference.cache
+d:\ECMASample\ECMASample\obj\Debug\ECMASample.dll
+d:\ECMASample\ECMASample\obj\Debug\ECMASample.pdb
+d:\ECMASample\ECMASample\obj\Debug\ECMASample.dll.licenses
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\bin\Debug\ECMASample.dll
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\bin\Debug\ECMASample.pdb
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\obj\Debug\ECMASample.dll.licenses
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\obj\Debug\ECMASample.dll
+D:\SharePoint2010DevSamples\ECMASample\ECMASample\obj\Debug\ECMASample.pdb
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\bin\Debug\ECMASample.dll
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\bin\Debug\ECMASample.pdb
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\obj\Debug\ECMASample.dll
+D:\SharePoint 2010 Dev MOC\Demos\ECMASample\ECMASample\obj\Debug\ECMASample.pdb

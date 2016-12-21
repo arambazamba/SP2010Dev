@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3D3D6392-C8CC-4983-A15D-1E53503C24B7/f:Program.cs" caret="825" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3D3D6392-C8CC-4983-A15D-1E53503C24B7/f:Program.cs" caret="815" fromTop="15" />
+      <File id="3D3D6392-C8CC-4983-A15D-1E53503C24B7/f:Program.cs" caret="435" fromTop="11" />
+      <File id="3D3D6392-C8CC-4983-A15D-1E53503C24B7/f:Program.cs" caret="823" fromTop="36" />
+      <File id="3D3D6392-C8CC-4983-A15D-1E53503C24B7/f:Program.cs" caret="825" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="Hashtable`0" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="Hashtable" priority="0" />
+      <Item value="props" priority="3" />
+      <Item value="SPSite`0" priority="0" />
+      <Item value="SPSite" priority="0" />
+      <Item value="SPWeb`0" priority="0" />
+      <Item value="site" priority="0" />
+      <Item value="SPList`0" priority="0" />
+      <Item value="web" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="path" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllBytes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPSite">
+      <Item value="RootWeb" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFile">
+      <Item value="CheckOutType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPFile">
+      <Item value="SPCheckOutType`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

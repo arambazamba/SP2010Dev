@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="DataboundWebPart" List="113" Url="_catalogs/wp">
+    <File Path="DataboundWebPart\DataboundWebPart.webpart" Url="DataboundWebPart.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Databound Webparts" />
+    </File>
+  </Module>
+</Elements>

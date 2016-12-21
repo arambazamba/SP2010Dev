@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8D64B181-1097-4392-B801-586366B63719}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KBx</RootNamespace>
+    <AssemblyName>KBx</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Web.CommandUI, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControlTemplates\KBx\Feedback.ascx.cs">
+      <DependentUpon>Feedback.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlTemplates\KBx\Feedback.ascx.designer.cs">
+      <DependentUpon>Feedback.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlTemplates\KBx\LinksList.ascx.cs">
+      <DependentUpon>LinksList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlTemplates\KBx\LinksList.ascx.designer.cs">
+      <DependentUpon>LinksList.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlTemplates\KBx\SendMessage.ascx.cs">
+      <DependentUpon>SendMessage.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlTemplates\KBx\SendMessage.ascx.designer.cs">
+      <DependentUpon>SendMessage.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\KBx\FollowedLink.cs" />
+    <Compile Include="Layouts\KBx\DocumentLinks.aspx.cs">
+      <DependentUpon>DocumentLinks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\KBx\DocumentLinks.aspx.designer.cs">
+      <DependentUpon>DocumentLinks.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layouts\RibbonOM\PageExtensions.cs" />
+    <Compile Include="Layouts\RibbonOM\RibbonTab.cs" />
+    <Compile Include="Layouts\RibbonOM\RibbonUsingObjectModel.aspx.cs">
+      <DependentUpon>Ribbon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\RibbonOM\RibbonUsingObjectModel.aspx.designer.cs">
+      <DependentUpon>RibbonUsingObjectModel.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ControlTemplates\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{4315cada-3031-4790-9fc7-8c6a2d48c0d5}</SharePointProjectItemId>
+    </None>
+    <None Include="DocumentLinksAction\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{65f2053b-df39-4faf-a728-9cb8ae43f120}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\KBx Document Links\KBx Document Links.feature">
+      <FeatureId>{c87900e7-46ff-4bb5-9a63-efcda9e26a43}</FeatureId>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{a3354858-7d97-42fe-b99f-3896b0cae21b}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{2604a0b9-396c-4c30-ae34-622c9a1c8b60}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{b7d5cf23-44c8-41dc-85ec-c50719e5ca55}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ControlTemplates\KBx\Feedback.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="ControlTemplates\KBx\LinksList.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="ControlTemplates\KBx\SendMessage.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="DocumentLinksAction\Elements.xml" />
+    <Content Include="Features\KBx Document Links\KBx Document Links.Template.xml">
+      <DependentUpon>KBx Document Links.feature</DependentUpon>
+    </Content>
+    <Content Include="Images\RibbonOM\package.png" />
+    <Content Include="Layouts\KBx\DocumentLinks.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="Layouts\KBx\DocumentLinks.js" />
+    <Content Include="Layouts\KBx\Images\Document.png" />
+    <Content Include="Layouts\KBx\Images\document_review.png" />
+    <Content Include="Layouts\KBx\Images\favorites.png" />
+    <Content Include="Layouts\KBx\Images\Link.png" />
+    <Content Include="Layouts\KBx\Images\DeleteRed.png" />
+    <Content Include="Layouts\KBx\Images\Mail.png" />
+    <Content Include="Layouts\KBx\Images\menu.png" />
+    <Content Include="Layouts\KBx\Images\offline.png" />
+    <Content Include="Layouts\KBx\jquery-1.6.2.min.js" />
+    <Content Include="Layouts\RibbonOM\Ribbon.js" />
+    <Content Include="Layouts\RibbonOM\Ribbon.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="470ffa09-4cf5-4647-a38e-423698bacc34" Scope="Web" Title="Lab05 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CheckJobs\Elements.xml" />
+  </ElementManifests>
+</Feature>

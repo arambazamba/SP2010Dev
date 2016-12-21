@@ -1,0 +1,122 @@
+d:\DemoSL\DemoSL\Bin\Debug\DemoSL.dll
+d:\DemoSL\DemoSL\Bin\Debug\DemoSL.pdb
+d:\DemoSL\DemoSL\Bin\Debug\AppManifest.xaml
+d:\DemoSL\DemoSL\Bin\Debug\DemoSL.xap
+d:\DemoSL\DemoSL\Bin\Debug\DemoSLTestPage.html
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Controls.Data.Input.dll
+d:\DemoSL\DemoSL\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Controls.Data.Input.xml
+d:\DemoSL\DemoSL\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+d:\DemoSL\DemoSL\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+d:\DemoSL\DemoSL\obj\Debug\ResolveAssemblyReference.cache
+d:\DemoSL\DemoSL\obj\Debug\App.g.cs
+d:\DemoSL\DemoSL\obj\Debug\MainPage.g.cs
+d:\DemoSL\DemoSL\obj\Debug\DemoSL.g.resources
+d:\DemoSL\DemoSL\obj\Debug\DemoSL.dll
+d:\DemoSL\DemoSL\obj\Debug\DemoSL.pdb
+d:\DemoSL\DemoSL\obj\Debug\XapCacheFile.xml
+d:\DemoSL\DemoSL\Bin\Debug\Microsoft.SharePoint.Client.Silverlight.dll
+d:\DemoSL\DemoSL\Bin\Debug\Microsoft.SharePoint.Client.Silverlight.Runtime.dll
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Controls.Data.dll
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Data.dll
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Controls.Data.xml
+d:\DemoSL\DemoSL\Bin\Debug\System.Windows.Data.xml
+d:\DemoSL\DemoSL\Bin\Debug\de-de\Microsoft.SharePoint.Client.Silverlight.Runtime.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\en-us\Microsoft.SharePoint.Client.Silverlight.Runtime.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\de\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\es\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\fr\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\it\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ja\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\ko\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+d:\DemoSL\DemoSL\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\DemoSL.dll
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\DemoSL.pdb
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\AppManifest.xaml
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\DemoSL.xap
+C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\14\TEMPLATE\LAYOUTS\ClientBin\DemoSLTestPage.html
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\DemoSL.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\DemoSL.pdb
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\AppManifest.xaml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\DemoSL.xap
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\DemoSLTestPage.html
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\Microsoft.SharePoint.Client.Silverlight.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\Microsoft.SharePoint.Client.Silverlight.Runtime.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Controls.Data.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Data.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Controls.Data.xml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\System.Windows.Data.xml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\de-de\Microsoft.SharePoint.Client.Silverlight.Runtime.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\en-us\Microsoft.SharePoint.Client.Silverlight.Runtime.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\App.g.cs
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\MainPage.g.cs
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\DemoSL.g.resources
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\DemoSL.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\DemoSL.pdb
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL\obj\Debug\XapCacheFile.xml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\ClientBin\DemoSL.dll
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\ClientBin\DemoSL.pdb
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\ClientBin\AppManifest.xaml
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\ClientBin\DemoSL.xap
+D:\SharePoint 2010 Dev MOC\Demos\Silverlight\DemoSL.Web\ClientBin\DemoSLTestPage.html

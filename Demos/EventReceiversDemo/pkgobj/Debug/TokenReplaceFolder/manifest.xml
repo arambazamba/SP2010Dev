@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="71034a9f-9b1c-4cbd-8b5a-3975532afc3d" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EventReceiversDemo.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\EventReceiversDemo\components.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="EventReceiversDemo_DemoEventReceivers\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction Id="ProfileActionsMenu"
+      GroupId="SiteActions"
+      Location="Microsoft.SharePoint.StandardMenu"
+      Sequence="1973"
+      Title="Profile Reports">
+        <UrlAction Url="/_layouts/Lab12/ProfileReporter.aspx" />
+    </CustomAction>
+    <CustomAction Id="TaxonomyActionsMenu"
+        GroupId="SiteActions"
+        Location="Microsoft.SharePoint.StandardMenu"
+        Sequence="1981"
+        Title="Taxonomy Reports">
+      <UrlAction Url="/_layouts/Lab12/TaxonomyReporter.aspx" />
+    </CustomAction>
+</Elements>

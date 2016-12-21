@@ -1,0 +1,131 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SimpleWebPart/f:Elements.xml" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SimpleWebPart/f:SimpleWebPart.webpart" caret="539" fromTop="11" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SimpleWebPart/f:SimpleWebPart.cs" caret="430" fromTop="16" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="1042" fromTop="28" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPart.cs" caret="760" fromTop="21" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="256" fromTop="9" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/f:IStringContent.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:ConsumingWebPart/f:ConsumingWebPart.cs" caret="415" fromTop="15" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="671" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="2289" fromTop="24" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="2554" fromTop="32" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="2936" fromTop="31" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="3268" fromTop="22" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="3142" fromTop="84" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:DataboundWebPart/f:DataboundWebPart.cs" caret="1131" fromTop="28" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPart.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="693" fromTop="18" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="717" fromTop="12" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPart.cs" caret="781" fromTop="21" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="256" fromTop="9" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="475" fromTop="9" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:VisualWebPart/f:VisualWebPartUserControl.ascx.cs" caret="717" fromTop="9" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="1278" fromTop="43" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="871" fromTop="24" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="819" fromTop="24" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="946" fromTop="24" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:ConsumingWebPart/f:ConsumingWebPart.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="819" fromTop="20" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:ConsumingWebPart/f:ConsumingWebPart.cs" caret="949" fromTop="15" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="819" fromTop="23" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/f:IStringContent.cs" caret="0" fromTop="0" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:ConsumingWebPart/f:ConsumingWebPart.cs" caret="415" fromTop="15" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="485" fromTop="7" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="391" fromTop="7" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="671" fromTop="16" />
+      <File id="BA738ED7-97FA-4907-99F2-6306D8A718D4/d:SendingWebPart/f:SendingWebPart.cs" caret="971" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Label`0" priority="0" />
+      <Item value="Button`0" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="lblMessage" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="Label" priority="0" />
+      <Item value="Text" priority="1" />
+      <Item value="btnAction" priority="3" />
+      <Item value="Button" priority="0" />
+      <Item value="ID" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="SPContext`0" priority="1" />
+      <Item value="msg" priority="0" />
+      <Item value="SPList`0" priority="0" />
+      <Item value="web" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="gvCustomers" priority="1" />
+      <Item value="list" priority="0" />
+      <Item value="IsPostBack" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="StringValue" priority="1" />
+      <Item value="IStringContent`0" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="override" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ControlCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="AccessKey" priority="0" />
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPContext">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPContext">
+      <Item value="Web" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="UICulture" priority="0" />
+      <Item value="CurrentUser" priority="0" />
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPUser">
+      <Item value="LoginName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItemCollection">
+      <Item value="GetDataTable`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

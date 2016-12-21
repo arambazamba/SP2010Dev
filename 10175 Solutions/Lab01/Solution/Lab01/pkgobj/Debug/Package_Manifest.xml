@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="59b0c62f-da80-4c7c-9d75-6d096cbbaa05" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab01.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Lab01\FarmHierarchy.aspx" />
+    <TemplateFile Location="Layouts\Lab01\PropertyChanger.aspx" />
+  </TemplateFiles>
+</Solution>

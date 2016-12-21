@@ -1,0 +1,6 @@
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\obj\Debug\ResolveAssemblyReference.cache
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\obj\Debug\JQueryWebparts.dll
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\bin\Debug\JQueryWebparts.dll
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\bin\Debug\JQueryWebparts.pdb
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SharePoint 2010 Dev MOC\Demos\ClientScriptWebParts\obj\Debug\JQueryWebparts.pdb

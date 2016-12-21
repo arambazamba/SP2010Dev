@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="87af5ac1-7c75-4416-943f-600d606acbc7" Scope="Web" Title="Library Upload Restriction">
+  <ElementManifests>
+    <ElementManifest Location="UploadRestrictionEventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

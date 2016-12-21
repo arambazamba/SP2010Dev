@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5f058d96-d277-4fa4-bd5e-e6e2c7680b78" Scope="Web" Title="Lab09 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SiteActions_Features\Elements.xml" />
+    <ElementManifest Location="HelpRibbon\Elements.xml" />
+  </ElementManifests>
+</Feature>

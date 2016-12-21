@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="51d87267-81d7-4c82-a059-3f4e2135ac56" solutionId="51d87267-81d7-4c82-a059-3f4e2135ac56" resetWebServer="false" name="JQueryWebparts" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="081852a6-3bdb-4a6c-9421-8d6774d887d0" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="45a920e2-18ff-43e6-bd57-b116341464a7" />
+    <projectItemReference itemId="62a4f4b5-a7ca-42fd-93c0-4689684811da" />
+    <projectItemReference itemId="bca49401-f967-42ad-b998-71b305dcc513" />
+  </projectItems>
+</package>

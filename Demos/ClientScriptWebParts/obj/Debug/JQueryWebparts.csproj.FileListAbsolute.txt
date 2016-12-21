@@ -1,0 +1,6 @@
+D:\JQueryWebparts\bin\Debug\JQueryWebparts.dll
+D:\JQueryWebparts\bin\Debug\JQueryWebparts.pdb
+D:\JQueryWebparts\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\JQueryWebparts\obj\Debug\ResolveAssemblyReference.cache
+D:\JQueryWebparts\obj\Debug\JQueryWebparts.dll
+D:\JQueryWebparts\obj\Debug\JQueryWebparts.pdb

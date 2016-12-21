@@ -1,0 +1,15 @@
+C:\Student\Labs\Lab05\Solution\Lab05\bin\Debug\Lab05.dll
+C:\Student\Labs\Lab05\Solution\Lab05\bin\Debug\Lab05.pdb
+C:\Student\Labs\Lab05\Solution\Lab05\obj\Debug\ResolveAssemblyReference.cache
+C:\Student\Labs\Lab05\Solution\Lab05\obj\Debug\Lab05.dll
+C:\Student\Labs\Lab05\Solution\Lab05\obj\Debug\Lab05.pdb
+C:\Student\Labs\Lab05\Lab05\Solution\Lab05\bin\Debug\Lab05.dll
+C:\Student\Labs\Lab05\Lab05\Solution\Lab05\bin\Debug\Lab05.pdb
+C:\Student\Labs\Lab05\Lab05\Solution\Lab05\obj\Debug\ResolveAssemblyReference.cache
+C:\Student\Labs\Lab05\Lab05\Solution\Lab05\obj\Debug\Lab05.dll
+C:\Student\Labs\Lab05\Lab05\Solution\Lab05\obj\Debug\Lab05.pdb
+E:\Student\Lab05\Solution\Lab05\bin\Debug\Lab05.dll
+E:\Student\Lab05\Solution\Lab05\bin\Debug\Lab05.pdb
+E:\Student\Lab05\Solution\Lab05\obj\Debug\ResolveAssemblyReference.cache
+E:\Student\Lab05\Solution\Lab05\obj\Debug\Lab05.dll
+E:\Student\Lab05\Solution\Lab05\obj\Debug\Lab05.pdb

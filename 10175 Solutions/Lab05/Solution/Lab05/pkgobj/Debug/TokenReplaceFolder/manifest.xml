@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ac96ec29-8c2d-4616-9da4-c87d1710a476" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab05.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab05_Feature1\Feature.xml" />
+    <FeatureManifest Location="Lab05_ControlProliferation\Feature.xml" />
+  </FeatureManifests>
+</Solution>

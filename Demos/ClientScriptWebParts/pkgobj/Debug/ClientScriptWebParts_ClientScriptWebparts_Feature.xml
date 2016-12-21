@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Webparts focusing on Client Side Scripting&#xD;&#xA;" Id="081852a6-3bdb-4a6c-9421-8d6774d887d0" Scope="Site" Title="ClientScriptWebparts">
+  <ElementManifests>
+    <ElementManifest Location="RefreshWebPart\Elements.xml" />
+    <ElementFile Location="RefreshWebPart\RefreshWebPart.webpart" />
+    <ElementManifest Location="CallSharePointWS\Elements.xml" />
+    <ElementFile Location="CallSharePointWS\CallSharePointWS.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f18d9c22-5bc7-4144-91b6-0e4ffd515b71" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Lab09.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Lab09, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d524aa34f1ebd07f" Namespace="Lab09.SkillsManager" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Lab09\SkillsManager\SkillsManagerUserControl.ascx" />
+    <TemplateFile Location="Images\Lab09\docHelp.png" />
+    <TemplateFile Location="Images\Lab09\skills.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Lab09_Feature1\Feature.xml" />
+    <FeatureManifest Location="Lab09_Feature2\Feature.xml" />
+  </FeatureManifests>
+</Solution>

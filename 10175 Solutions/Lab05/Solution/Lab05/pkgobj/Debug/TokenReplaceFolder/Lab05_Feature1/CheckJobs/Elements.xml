@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="10002">
+      <Receiver>
+        <Name>CheckJobsItemAdding</Name>
+        <Type>ItemAdding</Type>
+        <Assembly>Lab05, Version=1.0.0.0, Culture=neutral, PublicKeyToken=95dfa91614d6bef2</Assembly>
+        <Class>Lab05.CheckJobs.CheckJobs</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>CheckJobsItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>Lab05, Version=1.0.0.0, Culture=neutral, PublicKeyToken=95dfa91614d6bef2</Assembly>
+        <Class>Lab05.CheckJobs.CheckJobs</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

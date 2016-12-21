@@ -1,0 +1,86 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="135" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="169" fromTop="5" />
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="1253" fromTop="43" />
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="674" fromTop="24" />
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="878" fromTop="32" />
+      <File id="AC315AA7-5653-491B-B9B4-048949CFFEF7/f:Program.cs" caret="1253" fromTop="39" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="SmartPortalDataContext`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="SmartPortalDataContext" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="dc" priority="6" />
+      <Item value="Console`0" priority="0" />
+      <Item value="c" priority="3" />
+      <Item value="var" priority="0" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="ctx" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="Microsoft" priority="1" />
+      <Item value="SharePoint" priority="1" />
+      <Item value="Library" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="simpsons" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="CustomersContact`0" priority="1" />
+      <Item value="CustomersContact" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="FirstName" priority="0" />
+      <Item value="homer" priority="0" />
+      <Item value="true" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SmartPortalDataContext">
+      <Item value="Customers" priority="2" />
+      <Item value="Log" priority="1" />
+      <Item value="SubmitChanges`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CustomersContact">
+      <Item value="Title" priority="2" />
+      <Item value="FirstName" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Flush`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Linq.EntityList`1">
+      <Item value="InsertOnSubmit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

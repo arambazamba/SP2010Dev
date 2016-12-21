@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d1fcc8bd-4ccd-4037-a115-370c9534e746" solutionId="d1fcc8bd-4ccd-4037-a115-370c9534e746" resetWebServer="false" name="ECMASample" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="718f46e3-b99d-4d7b-a3d9-16b94446dc05" />
+  </projectItems>
+</package>

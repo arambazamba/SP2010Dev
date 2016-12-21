@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8a4de862-271b-4331-af72-ca3a73366a2f" solutionId="8a4de862-271b-4331-af72-ca3a73366a2f" resetWebServer="false" name="PermissionServiceWCF" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="8b94f0a8-515d-4055-a91b-9f2c927eaad4" />
+  </projectItems>
+</package>

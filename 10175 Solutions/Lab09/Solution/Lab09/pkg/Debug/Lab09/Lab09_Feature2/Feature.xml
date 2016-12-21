@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="6f0aa748-b16d-42a9-a898-946f50721180" Scope="Site" Title="Lab09 Feature2">
+  <ElementManifests>
+    <ElementManifest Location="SkillsManager\Elements.xml" />
+    <ElementFile Location="SkillsManager\SkillsManager.webpart" />
+  </ElementManifests>
+</Feature>

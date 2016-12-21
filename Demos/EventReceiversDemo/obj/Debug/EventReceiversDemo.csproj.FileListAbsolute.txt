@@ -1,0 +1,12 @@
+d:\EventReceiversDemo\bin\Debug\EventReceiversDemo.dll
+d:\EventReceiversDemo\bin\Debug\EventReceiversDemo.pdb
+d:\EventReceiversDemo\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+d:\EventReceiversDemo\obj\Debug\ResolveAssemblyReference.cache
+d:\EventReceiversDemo\obj\Debug\EventReceiversDemo.dll
+d:\EventReceiversDemo\obj\Debug\EventReceiversDemo.pdb
+D:\SPDev\Demos\EventReceiversDemo\bin\Debug\EventReceiversDemo.dll
+D:\SPDev\Demos\EventReceiversDemo\bin\Debug\EventReceiversDemo.pdb
+D:\SPDev\Demos\EventReceiversDemo\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\SPDev\Demos\EventReceiversDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\SPDev\Demos\EventReceiversDemo\obj\Debug\EventReceiversDemo.dll
+D:\SPDev\Demos\EventReceiversDemo\obj\Debug\EventReceiversDemo.pdb

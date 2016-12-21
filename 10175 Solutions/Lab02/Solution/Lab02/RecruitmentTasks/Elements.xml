@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <!-- Do not change the value of the Name attribute below. If it does not match the folder name of the List Definition project item, an error will occur when the project is run. -->
+    <!-- 
+        In the below:
+            A. Edit OnQuickLaunch
+            B. Edit Description
+            C. Add AllDeletion=TRUE
+            D. AllowEveryoneViewItems
+            E. Add DisableAttachments
+            F. Add NoCrawl
+    -->
+    <ListTemplate
+        Name="RecruitmentTasks"
+        Type="10000"
+        BaseType="0"
+        OnQuickLaunch="FALSE"
+        SecurityBits="11"
+        Sequence="360"
+        DisplayName="RecruitmentTasks"
+        Description="Recruitment Tasks"
+        Image="/_layouts/images/ittask.gif"
+        AllowDeletion="TRUE"
+        AllowEveryoneViewItems="TRUE"
+        DisableAttachments="TRUE"
+        NoCrawl="TRUE"
+        />
+</Elements>
